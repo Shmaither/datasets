@@ -1,2 +1,2 @@
-# test-dataScience
-Exercise with an specific dataset 
+# datasets
+Variety of datasets for testing.
