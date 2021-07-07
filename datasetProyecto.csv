@@ -1,0 +1,849 @@
+CURSO_ACADEMICO;LOCALIDAD;ESTUDIO;TIPO_ESTUDIO;TIPO_EGRESO;SEXO;ALUMNOS_GRADUADOS;ALUMNOS_INTERRUMPEN_ESTUDIOS;ALUMNOS_INTERRUMPEN_EST_ANO1;ALUMNOS_TRASLADAN_OTRA_UNIV;DURACION_MEDIA_GRADUADOS;TASA_EFICIENCIA;FECHA_ACTUALIZACION
+2020;Cartago;Bachillerato: Arquitectura TÃ©cnica;Bachillerato;Abandono Voluntario;Hombres;8;5;1;0;;;31/05/2021
+2020;Cartago;Bachillerato: Arquitectura TÃ©cnica;Bachillerato;Abandono Voluntario;Mujeres;7;2;0;0;;;31/05/2021
+2020;Cartago;Bachillerato: Arquitectura TÃ©cnica;Bachillerato;Graduado;Hombres;10;0;0;0;6.50;71.64;31/05/2021
+2020;Cartago;Bachillerato: Arquitectura TÃ©cnica;Bachillerato;Graduado;Mujeres;6;0;0;0;6.75;72.08;31/05/2021
+2020;Cartago;Bachillerato: IngenierÃ­a Civil;Bachillerato;Abandono Voluntario;Hombres;3;13;1;0;;;31/05/2021
+2020;Cartago;Bachillerato: IngenierÃ­a Civil;Bachillerato;Abandono Voluntario;Mujeres;1;3;0;0;;;31/05/2021
+2020;Cartago;Bachillerato: IngenierÃ­a Civil;Bachillerato;Cambio de estudios sin simultaneidad;Mujeres;3;1;0;0;;;31/05/2021
+2020;Cartago;Bachillerato: IngenierÃ­a Civil;Bachillerato;Graduado;Hombres;7;0;0;0;6.00;83.28;31/05/2021
+2020;Cartago;Bachillerato: IngenierÃ­a Civil;Bachillerato;Graduado;Mujeres;2;0;0;0;7.00;61.74;31/05/2021
+2020;Cartago;Bachillerato: IngenierÃ­a de OrganizaciÃ³n Industrial;Bachillerato;Abandono Voluntario;Hombres;4;11;7;0;;;31/05/2021
+2020;Cartago;Bachillerato: IngenierÃ­a de OrganizaciÃ³n Industrial;Bachillerato;Abandono Voluntario;Mujeres;4;1;1;0;;;31/05/2021
+2020;Cartago;Bachillerato: IngenierÃ­a de OrganizaciÃ³n Industrial;Bachillerato;Cambio de estudios sin simultaneidad;Hombres;3;1;1;0;;;31/05/2021
+2019;Cartago;Bachillerato: IngenierÃ­a de OrganizaciÃ³n Industrial;Bachillerato;Graduado;Hombres;17;0;0;0;5.00;82.87;31/05/2021
+2019;Cartago;Bachillerato: IngenierÃ­a de OrganizaciÃ³n Industrial;Bachillerato;Graduado;Mujeres;3;0;0;0;4.50;96.30;31/05/2021
+2019;Cartago;Bachillerato: IngenierÃ­a de OrganizaciÃ³n Industrial;Bachillerato;Incumple RÃ©gimen de permanencia;Hombres;0;1;1;0;;;31/05/2021
+2019;Cartago;Bachillerato: IngenierÃ­a MecatrÃ³nica;Bachillerato;Abandono Voluntario;Hombres;0;13;5;0;;;31/05/2021
+2019;Cartago;Bachillerato: IngenierÃ­a MecatrÃ³nica;Bachillerato;Cambio de estudios sin simultaneidad;Hombres;0;5;5;0;;;31/05/2021
+2019;Cartago;Bachillerato: IngenierÃ­a MecatrÃ³nica;Bachillerato;Graduado;Hombres;15;0;0;0;5.07;89.78;31/05/2021
+2019;Cartago;Bachillerato: IngenierÃ­a MecatrÃ³nica;Bachillerato;Graduado;Mujeres;3;0;0;0;4.00;100.00;31/05/2021
+2019;Cartago;Bachillerato: IngenierÃ­a MecatrÃ³nica;Bachillerato;Incumple RÃ©gimen de permanencia;Hombres;0;1;1;0;;;31/05/2021
+2018;Heredia;Bachillerato: AdministraciÃ³n y DirecciÃ³n de Empresas;Bachillerato;Abandono Voluntario;Hombres;0;28;6;0;;;31/05/2021
+2020;Heredia;Bachillerato: AdministraciÃ³n y DirecciÃ³n de Empresas;Bachillerato;Abandono Voluntario;Mujeres;0;22;3;0;;;31/05/2021
+2020;Heredia;Bachillerato: AdministraciÃ³n y DirecciÃ³n de Empresas;Bachillerato;Cambio de estudios sin simultaneidad;Hombres;0;1;0;0;;;31/05/2021
+2020;Heredia;Bachillerato: AdministraciÃ³n y DirecciÃ³n de Empresas;Bachillerato;Cambio de estudios sin simultaneidad;Mujeres;0;4;4;0;;;31/05/2021
+2020;Heredia;Bachillerato: AdministraciÃ³n y DirecciÃ³n de Empresas;Bachillerato;Graduado;Hombres;23;0;0;0;5.50;77.97;31/05/2021
+2020;Heredia;Bachillerato: AdministraciÃ³n y DirecciÃ³n de Empresas;Bachillerato;Graduado;Mujeres;8;0;0;0;4.67;92.43;31/05/2021
+2020;Heredia;Bachillerato: AdministraciÃ³n y DirecciÃ³n de Empresas;Bachillerato;Incumple RÃ©gimen de permanencia;Hombres;0;4;1;0;;;31/05/2021
+2020;Heredia;Bachillerato: AdministraciÃ³n y DirecciÃ³n de Empresas;Bachillerato;Incumple RÃ©gimen de permanencia;Mujeres;0;1;1;0;;;31/05/2021
+2020;Heredia;Bachillerato: Ciencias Ambientales;Bachillerato;Abandono Voluntario;Hombres;0;19;6;0;;;31/05/2021
+2020;Heredia;Bachillerato: Ciencias Ambientales;Bachillerato;Abandono Voluntario;Mujeres;0;6;2;0;;;31/05/2021
+2020;Heredia;Bachillerato: Ciencias Ambientales;Bachillerato;Cambio de estudios sin simultaneidad;Hombres;0;5;5;0;;;31/05/2021
+2020;Heredia;Bachillerato: Ciencias Ambientales;Bachillerato;Cambio de estudios sin simultaneidad;Mujeres;0;1;1;0;;;31/05/2021
+2020;Heredia;Bachillerato: Ciencias Ambientales;Bachillerato;Graduado;Hombres;18;0;0;0;5.50;84.80;31/05/2021
+2020;Heredia;Bachillerato: Ciencias Ambientales;Bachillerato;Graduado;Mujeres;12;0;0;0;5.50;81.10;31/05/2021
+2020;Heredia;Bachillerato: Ciencias Ambientales;Bachillerato;Incumple RÃ©gimen de permanencia;Hombres;0;1;1;0;;;31/05/2021
+2020;Heredia;Bachillerato: Ciencias Ambientales;Bachillerato;Incumple RÃ©gimen de permanencia;Mujeres;0;1;1;0;;;31/05/2021
+2020;Heredia;Bachillerato: Ciencias de la Actividad FÃ­sica y del Deporte;Bachillerato;Abandono Voluntario;Hombres;0;5;2;0;;;31/05/2021
+2020;Heredia;Bachillerato: Ciencias de la Actividad FÃ­sica y del Deporte;Bachillerato;Cambio de estudios sin simultaneidad;Hombres;0;1;1;0;;;31/05/2021
+2020;Heredia;Bachillerato: Ciencias de la Actividad FÃ­sica y del Deporte;Bachillerato;Graduado;Hombres;43;0;0;0;4.41;93.03;31/05/2021
+2020;Heredia;Bachillerato: Ciencias de la Actividad FÃ­sica y del Deporte;Bachillerato;Graduado;Mujeres;9;0;0;0;4.25;95.40;31/05/2021
+2020;Heredia;Bachillerato: EnfermerÃ­a;Bachillerato;Abandono Voluntario;Hombres;0;2;1;0;;;31/05/2021
+2020;Heredia;Bachillerato: EnfermerÃ­a;Bachillerato;Abandono Voluntario;Mujeres;0;1;0;0;;;31/05/2021
+2020;Heredia;Bachillerato: EnfermerÃ­a;Bachillerato;Cambio de estudios sin simultaneidad;Mujeres;0;1;0;0;;;31/05/2021
+2020;Heredia;Bachillerato: EnfermerÃ­a;Bachillerato;Graduado;Hombres;8;0;0;0;4.12;95.71;31/05/2021
+2020;Heredia;Bachillerato: EnfermerÃ­a;Bachillerato;Graduado;Mujeres;44;0;0;0;4.00;98.08;31/05/2021
+2020;Heredia;Bachillerato: GestiÃ³n y AdministraciÃ³n PÃºblica;Bachillerato;Abandono Voluntario;Hombres;0;7;6;0;;;31/05/2021
+2020;Heredia;Bachillerato: GestiÃ³n y AdministraciÃ³n PÃºblica;Bachillerato;Abandono Voluntario;Mujeres;0;8;1;0;;;31/05/2021
+2020;Heredia;Bachillerato: GestiÃ³n y AdministraciÃ³n PÃºblica;Bachillerato;Cambio de estudios sin simultaneidad;Hombres;0;1;1;0;;;31/05/2021
+2019;Heredia;Bachillerato: GestiÃ³n y AdministraciÃ³n PÃºblica;Bachillerato;Graduado;Hombres;3;0;0;0;8.00;78.24;31/05/2021
+2019;Heredia;Bachillerato: GestiÃ³n y AdministraciÃ³n PÃºblica;Bachillerato;Graduado;Mujeres;3;0;0;0;5.00;75.32;31/05/2021
+2019;Heredia;Bachillerato: GestiÃ³n y AdministraciÃ³n PÃºblica;Bachillerato;Incumple RÃ©gimen de permanencia;Hombres;0;1;1;0;;;31/05/2021
+2019;Heredia;Bachillerato: IngenierÃ­a Agroalimentaria y del Medio Rural;Bachillerato;Abandono Voluntario;Hombres;0;12;3;0;;;31/05/2021
+2019;Heredia;Bachillerato: IngenierÃ­a Agroalimentaria y del Medio Rural;Bachillerato;Abandono Voluntario;Mujeres;0;4;1;0;;;31/05/2021
+2019;Heredia;Bachillerato: IngenierÃ­a Agroalimentaria y del Medio Rural;Bachillerato;Graduado;Hombres;14;0;0;0;5.09;79.32;31/05/2021
+2019;Heredia;Bachillerato: IngenierÃ­a Agroalimentaria y del Medio Rural;Bachillerato;Graduado;Mujeres;9;0;0;0;5.67;77.05;31/05/2021
+2019;Heredia;Bachillerato: Magisterio en EducaciÃ³n Infantil;Bachillerato;Abandono Voluntario;Hombres;0;6;4;0;;;31/05/2021
+2019;Heredia;Bachillerato: Magisterio en EducaciÃ³n Infantil;Bachillerato;Abandono Voluntario;Mujeres;0;19;6;0;;;31/05/2021
+2019;Heredia;Bachillerato: Magisterio en EducaciÃ³n Infantil;Bachillerato;Cambio de estudios sin simultaneidad;Mujeres;0;2;2;0;;;31/05/2021
+2019;Heredia;Bachillerato: Magisterio en EducaciÃ³n Infantil;Bachillerato;Graduado;Hombres;7;0;0;0;5.00;84.71;31/05/2021
+2019;Heredia;Bachillerato: Magisterio en EducaciÃ³n Infantil;Bachillerato;Graduado;Mujeres;97;0;0;0;4.37;91.64;31/05/2021
+2019;Heredia;Bachillerato: Magisterio en EducaciÃ³n Primaria;Bachillerato;Abandono Voluntario;Hombres;0;11;6;0;;;31/05/2021
+2019;Heredia;Bachillerato: Magisterio en EducaciÃ³n Primaria;Bachillerato;Abandono Voluntario;Mujeres;0;11;4;0;;;31/05/2021
+2019;Heredia;Bachillerato: Magisterio en EducaciÃ³n Primaria;Bachillerato;Cambio de estudios sin simultaneidad;Hombres;0;2;1;0;;;31/05/2021
+2019;Heredia;Bachillerato: Magisterio en EducaciÃ³n Primaria;Bachillerato;Cambio de estudios sin simultaneidad;Mujeres;0;2;2;0;;;31/05/2021
+2019;Heredia;Bachillerato: Magisterio en EducaciÃ³n Primaria;Bachillerato;Graduado;Hombres;38;0;0;0;4.97;85.03;31/05/2021
+2019;Heredia;Bachillerato: Magisterio en EducaciÃ³n Primaria;Bachillerato;Graduado;Mujeres;35;0;0;0;4.81;90.85;31/05/2021
+2019;Heredia;Bachillerato: Medicina;Bachillerato;Abandono Voluntario;Hombres;0;2;1;0;;;31/05/2021
+2019;Heredia;Bachillerato: Medicina;Bachillerato;Abandono Voluntario;Mujeres;0;1;0;0;;;31/05/2021
+2019;Heredia;Bachillerato: Medicina;Bachillerato;Traslado a otra Universidad;Mujeres;0;0;0;3;;;31/05/2021
+2019;Heredia;Bachillerato: NutriciÃ³n Humana y DietÃ©tica;Bachillerato;Abandono Voluntario;Hombres;0;2;2;0;;;31/05/2021
+2019;Heredia;Bachillerato: NutriciÃ³n Humana y DietÃ©tica;Bachillerato;Abandono Voluntario;Mujeres;0;11;3;0;;;31/05/2021
+2019;Heredia;Bachillerato: NutriciÃ³n Humana y DietÃ©tica;Bachillerato;Cambio de estudios sin simultaneidad;Hombres;0;1;1;0;;;31/05/2021
+2019;Heredia;Bachillerato: NutriciÃ³n Humana y DietÃ©tica;Bachillerato;Cambio de estudios sin simultaneidad;Mujeres;0;2;2;0;;;31/05/2021
+2019;Heredia;Bachillerato: NutriciÃ³n Humana y DietÃ©tica;Bachillerato;Graduado;Hombres;9;0;0;0;4.33;94.72;31/05/2021
+2019;Heredia;Bachillerato: NutriciÃ³n Humana y DietÃ©tica;Bachillerato;Graduado;Mujeres;25;0;0;0;4.75;93.07;31/05/2021
+2019;Heredia;Bachillerato: NutriciÃ³n Humana y DietÃ©tica;Bachillerato;Traslado a otra Universidad;Mujeres;0;0;0;1;;;31/05/2021
+2019;Heredia;Bachillerato: OdontologÃ­a;Bachillerato;Abandono Voluntario;Mujeres;0;1;0;0;;;31/05/2021
+2019;Heredia;Bachillerato: OdontologÃ­a;Bachillerato;Cambio de estudios sin simultaneidad;Mujeres;0;2;2;0;;;31/05/2021
+2019;Heredia;Bachillerato: OdontologÃ­a;Bachillerato;Graduado;Hombres;8;0;0;0;5.50;98.31;31/05/2021
+2019;Heredia;Bachillerato: OdontologÃ­a;Bachillerato;Graduado;Mujeres;28;0;0;0;5.11;99.70;31/05/2021
+2019;Heredia;Bachillerato: OdontologÃ­a;Bachillerato;Traslado a otra Universidad;Hombres;0;0;0;2;;;31/05/2021
+2019;Heredia;Bachillerato: OdontologÃ­a;Bachillerato;Traslado a otra Universidad;Mujeres;0;0;0;3;;;31/05/2021
+2019;Heredia;MÃ¡ster: DirecciÃ³n y planificaciÃ³n del turismo;MÃ¡ster;Abandono Voluntario;Hombres;0;3;1;0;;;31/05/2021
+2019;Heredia;MÃ¡ster: DirecciÃ³n y planificaciÃ³n del turismo;MÃ¡ster;Abandono Voluntario;Mujeres;0;7;5;0;;;31/05/2021
+2019;Heredia;MÃ¡ster: DirecciÃ³n y planificaciÃ³n del turismo;MÃ¡ster;Graduado;Hombres;2;0;0;0;2.50;75.00;31/05/2021
+2019;Heredia;MÃ¡ster: DirecciÃ³n y planificaciÃ³n del turismo;MÃ¡ster;Graduado;Mujeres;8;0;0;0;2.50;83.77;31/05/2021
+2019;Heredia;MÃ¡ster: Estudios Avanzados sobre el Lenguaje, la ComunicaciÃ³n y sus PatologÃ­as;MÃ¡ster;Abandono Voluntario;Mujeres;0;2;2;0;;;31/05/2021
+2019;Heredia;MÃ¡ster: Estudios Avanzados sobre el Lenguaje, la ComunicaciÃ³n y sus PatologÃ­as;MÃ¡ster;Graduado;Hombres;1;0;0;0;1.00;100.00;31/05/2021
+2019;Heredia;MÃ¡ster: Estudios Avanzados sobre el Lenguaje, la ComunicaciÃ³n y sus PatologÃ­as;MÃ¡ster;Graduado;Mujeres;11;0;0;0;1.00;100.00;31/05/2021
+2019;Heredia;MÃ¡ster: EvaluaciÃ³n y Entrenamiento FÃ­sico para la Salud;MÃ¡ster;Abandono Voluntario;Hombres;0;1;1;0;;;31/05/2021
+2019;Heredia;MÃ¡ster: EvaluaciÃ³n y Entrenamiento FÃ­sico para la Salud;MÃ¡ster;Abandono Voluntario;Mujeres;0;2;2;0;;;31/05/2021
+2019;Heredia;MÃ¡ster: EvaluaciÃ³n y Entrenamiento FÃ­sico para la Salud;MÃ¡ster;Graduado;Hombres;8;0;0;0;1.00;100.00;31/05/2021
+2019;Heredia;MÃ¡ster: EvaluaciÃ³n y Entrenamiento FÃ­sico para la Salud;MÃ¡ster;Graduado;Mujeres;2;0;0;0;1.00;100.00;31/05/2021
+2019;Heredia;MÃ¡ster: IngenierÃ­a AgronÃ³mica;MÃ¡ster;Graduado;Hombres;4;0;0;0;2.50;89.92;31/05/2021
+2019;Heredia;MÃ¡ster: Profesorado E.S.O., F.P. y Ens. Idiom, Art y Deport;MÃ¡ster;Graduado;Hombres;13;0;0;0;1.54;95.47;31/05/2021
+2019;Heredia;MÃ¡ster: Profesorado E.S.O., F.P. y Ens. Idiom, Art y Deport;MÃ¡ster;Graduado;Mujeres;8;0;0;0;1.12;100.00;31/05/2021
+2018;San José;Bachillerato: AdministraciÃ³n y DirecciÃ³n de Empresas;Bachillerato;Abandono Voluntario;Hombres;0;8;4;0;;;31/05/2021
+2018;San José;Bachillerato: AdministraciÃ³n y DirecciÃ³n de Empresas;Bachillerato;Abandono Voluntario;Mujeres;0;4;1;0;;;31/05/2021
+2018;San José;Bachillerato: AdministraciÃ³n y DirecciÃ³n de Empresas;Bachillerato;Graduado;Hombres;8;0;0;0;5.57;84.28;31/05/2021
+2018;San José;Bachillerato: AdministraciÃ³n y DirecciÃ³n de Empresas;Bachillerato;Graduado;Mujeres;12;0;0;0;5.42;95.70;31/05/2021
+2018;San José;Bachillerato: Bellas Artes;Bachillerato;Abandono Voluntario;Hombres;0;7;0;0;;;31/05/2021
+2018;San José;Bachillerato: Bellas Artes;Bachillerato;Abandono Voluntario;Mujeres;0;7;2;0;;;31/05/2021
+2018;San José;Bachillerato: Bellas Artes;Bachillerato;Graduado;Hombres;3;0;0;0;6.50;72.45;31/05/2021
+2018;San José;Bachillerato: Bellas Artes;Bachillerato;Graduado;Mujeres;26;0;0;0;4.55;96.05;31/05/2021
+2018;San José;Bachillerato: Bellas Artes;Bachillerato;Traslado a otra Universidad;Mujeres;0;0;0;1;;;31/05/2021
+2018;San José;Bachillerato: EnfermerÃ­a;Bachillerato;Abandono Voluntario;Hombres;0;1;0;0;;;31/05/2021
+2018;San José;Bachillerato: EnfermerÃ­a;Bachillerato;Abandono Voluntario;Mujeres;0;1;1;0;;;31/05/2021
+2018;San José;Bachillerato: EnfermerÃ­a;Bachillerato;Graduado;Hombres;4;0;0;0;4.33;86.75;31/05/2021
+2018;San José;Bachillerato: EnfermerÃ­a;Bachillerato;Graduado;Mujeres;12;0;0;0;4.10;98.84;31/05/2021
+2018;San José;Bachillerato: EnfermerÃ­a;Bachillerato;Traslado a otra Universidad;Mujeres;0;0;0;2;;;31/05/2021
+2018;San José;Bachillerato: IngenierÃ­a ElectrÃ³nica y AutomÃ¡tica;Bachillerato;Abandono Voluntario;Hombres;0;2;0;0;;;31/05/2021
+2018;San José;Bachillerato: IngenierÃ­a ElectrÃ³nica y AutomÃ¡tica;Bachillerato;Abandono Voluntario;Mujeres;0;1;0;0;;;31/05/2021
+2018;San José;Bachillerato: IngenierÃ­a ElectrÃ³nica y AutomÃ¡tica;Bachillerato;Cambio de estudios sin simultaneidad;Hombres;0;1;0;0;;;31/05/2021
+2018;San José;Bachillerato: IngenierÃ­a ElectrÃ³nica y AutomÃ¡tica;Bachillerato;Graduado;Hombres;14;0;0;0;5.50;85.98;31/05/2021
+2018;San José;Bachillerato: IngenierÃ­a ElectrÃ³nica y AutomÃ¡tica;Bachillerato;Graduado;Mujeres;3;0;0;0;5.33;84.56;31/05/2021
+2018;San José;Bachillerato: IngenierÃ­a ElectrÃ³nica y AutomÃ¡tica;Bachillerato;Incumple RÃ©gimen de permanencia;Hombres;0;1;0;0;;;31/05/2021
+2018;San José;Bachillerato: IngenierÃ­a InformÃ¡tica;Bachillerato;Abandono Voluntario;Hombres;0;6;2;0;;;31/05/2021
+2018;San José;Bachillerato: IngenierÃ­a InformÃ¡tica;Bachillerato;Cambio de estudios sin simultaneidad;Hombres;0;4;4;0;;;31/05/2021
+2018;San José;Bachillerato: IngenierÃ­a InformÃ¡tica;Bachillerato;Graduado;Hombres;6;0;0;0;6.00;79.50;31/05/2021
+2018;San José;Bachillerato: IngenierÃ­a InformÃ¡tica;Bachillerato;Traslado a otra Universidad;Hombres;0;0;0;3;;;31/05/2021
+2018;San José;Bachillerato: Magisterio en EducaciÃ³n Infantil;Bachillerato;Abandono Voluntario;Hombres;0;4;1;0;;;31/05/2021
+2018;San José;Bachillerato: Magisterio en EducaciÃ³n Infantil;Bachillerato;Abandono Voluntario;Mujeres;0;11;0;0;;;31/05/2021
+2018;San José;Bachillerato: Magisterio en EducaciÃ³n Infantil;Bachillerato;Cambio de estudios sin simultaneidad;Mujeres;0;1;1;0;;;31/05/2021
+2018;San José;Bachillerato: Magisterio en EducaciÃ³n Infantil;Bachillerato;Graduado;Hombres;3;0;0;0;4.50;88.56;31/05/2021
+2018;San José;Bachillerato: Magisterio en EducaciÃ³n Infantil;Bachillerato;Graduado;Mujeres;65;0;0;0;4.52;90.71;31/05/2021
+2018;San José;Bachillerato: Magisterio en EducaciÃ³n Infantil;Bachillerato;Traslado a otra Universidad;Hombres;0;0;0;1;;;31/05/2021
+2018;San José;Bachillerato: Magisterio en EducaciÃ³n Infantil;Bachillerato;Traslado a otra Universidad;Mujeres;0;0;0;4;;;31/05/2021
+2018;San José;Bachillerato: Magisterio en EducaciÃ³n Primaria;Bachillerato;Abandono Voluntario;Hombres;0;15;3;0;;;31/05/2021
+2020;San José;Bachillerato: Magisterio en EducaciÃ³n Primaria;Bachillerato;Abandono Voluntario;Mujeres;0;9;4;0;;;31/05/2021
+2020;San José;Bachillerato: Magisterio en EducaciÃ³n Primaria;Bachillerato;Cambio de estudios sin simultaneidad;Hombres;0;3;2;0;;;31/05/2021
+2020;San José;Bachillerato: Magisterio en EducaciÃ³n Primaria;Bachillerato;Cambio de estudios sin simultaneidad;Mujeres;0;1;1;0;;;31/05/2021
+2020;San José;Bachillerato: Magisterio en EducaciÃ³n Primaria;Bachillerato;Graduado;Hombres;19;0;0;0;5.16;86.33;31/05/2021
+2020;San José;Bachillerato: Magisterio en EducaciÃ³n Primaria;Bachillerato;Graduado;Mujeres;39;0;0;0;4.44;89.91;31/05/2021
+2020;San José;Bachillerato: Magisterio en EducaciÃ³n Primaria;Bachillerato;Incumple RÃ©gimen de permanencia;Hombres;0;2;2;0;;;31/05/2021
+2020;San José;Bachillerato: Magisterio en EducaciÃ³n Primaria;Bachillerato;Traslado a otra Universidad;Mujeres;0;0;0;1;;;31/05/2021
+2020;San José;Bachillerato: PsicologÃ­a;Bachillerato;Abandono Voluntario;Hombres;0;3;0;0;;;31/05/2021
+2020;San José;Bachillerato: PsicologÃ­a;Bachillerato;Abandono Voluntario;Mujeres;0;2;1;0;;;31/05/2021
+2020;San José;Bachillerato: PsicologÃ­a;Bachillerato;Cambio de estudios sin simultaneidad;Hombres;0;2;1;0;;;31/05/2021
+2020;San José;Bachillerato: PsicologÃ­a;Bachillerato;Cambio de estudios sin simultaneidad;Mujeres;0;2;2;0;;;31/05/2021
+2020;San José;Bachillerato: PsicologÃ­a;Bachillerato;Graduado;Hombres;5;0;0;0;4.80;90.99;31/05/2021
+2020;San José;Bachillerato: PsicologÃ­a;Bachillerato;Graduado;Mujeres;61;0;0;0;4.24;93.38;31/05/2021
+2020;San José;Bachillerato: PsicologÃ­a;Bachillerato;Incumple RÃ©gimen de permanencia;Hombres;0;1;0;0;;;31/05/2021
+2020;San José;Bachillerato: PsicologÃ­a;Bachillerato;Traslado a otra Universidad;Hombres;0;0;0;2;;;31/05/2021
+2020;San José;Bachillerato: PsicologÃ­a;Bachillerato;Traslado a otra Universidad;Mujeres;0;0;0;2;;;31/05/2021
+2020;San José;Licenciado en Ciencias del Trabajo;Licenciatura o equivalente;Abandono Voluntario;Mujeres;0;1;0;0;;;31/05/2021
+2020;San José;Licenciado en Ciencias del Trabajo;Licenciatura o equivalente;Incumple RÃ©gimen de permanencia;Mujeres;0;1;0;0;;;31/05/2021
+2020;San José;MÃ¡ster: Profesorado E.S.O., F.P. y Ens. Idiom, Art y Deport;MÃ¡ster;Graduado;Hombres;2;0;0;0;1.00;100.00;31/05/2021
+2020;San José;MÃ¡ster: Profesorado E.S.O., F.P. y Ens. Idiom, Art y Deport;MÃ¡ster;Graduado;Mujeres;16;0;0;0;1.00;100.00;31/05/2021
+2020;San José;MÃ¡ster: PsicologÃ­a General Sanitaria;MÃ¡ster;Graduado;Hombres;8;0;0;0;2.00;100.00;31/05/2021
+2020;San José;MÃ¡ster: PsicologÃ­a General Sanitaria;MÃ¡ster;Graduado;Mujeres;23;0;0;0;2.13;98.15;31/05/2021
+2020;Alajuela;BioquÃ­mica;Licenciatura o equivalente;Abandono Voluntario;Hombres;0;1;0;0;;;31/05/2021
+2020;Alajuela;BioquÃ­mica;Licenciatura o equivalente;Abandono Voluntario;Mujeres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Derecho;Licenciatura o equivalente;Abandono Voluntario;Hombres;0;5;0;0;;;31/05/2021
+2020;Alajuela;Derecho;Licenciatura o equivalente;Abandono Voluntario;Mujeres;0;8;0;0;;;31/05/2021
+2020;Alajuela;Derecho;Licenciatura o equivalente;Traslado a otra Universidad;Hombres;0;0;0;7;;;31/05/2021
+2020;Alajuela;Derecho;Licenciatura o equivalente;Traslado a otra Universidad;Mujeres;0;0;0;4;;;31/05/2021
+2020;Alajuela;Diplomado Ciencias Empresariales;Diplomatura o equivalente;Traslado a otra Universidad;Hombres;0;0;0;3;;;31/05/2021
+2020;Alajuela;Diplomado en Turismo;Diplomatura o equivalente;Graduado;Mujeres;2;0;0;0;13.00;91.15;31/05/2021
+2020;Alajuela;Doctorado: BioquÃ­mica y biologÃ­a molecular [RD 1393/2007];Doctorado;Graduado;Hombres;1;0;0;0;2.53;;31/05/2021
+2020;Alajuela;Doctorado: Calidad, seguridad y tecnologÃ­a de los alimentos [RD 1393/2007];Doctorado;Graduado;Mujeres;1;0;0;0;1.98;;31/05/2021
+2020;Alajuela;Doctorado: Ciencias de la antigÃ¼edad [RD 1393/2007];Doctorado;Graduado;Hombres;1;0;0;0;1.54;;31/05/2021
+2020;Alajuela;Doctorado: Derecho [RD 1393/2007];Doctorado;Abandono Voluntario;Hombres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: Derecho [RD 1393/2007];Doctorado;Abandono Voluntario;Mujeres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: Derecho [RD 1393/2007];Doctorado;Graduado;Hombres;1;0;0;0;0.90;;31/05/2021
+2020;Alajuela;Doctorado: EducaciÃ³n [RD 1393/2007];Doctorado;Graduado;Hombres;1;0;0;0;4.53;;31/05/2021
+2020;Alajuela;Doctorado: GeologÃ­a [RD 1393/2007];Doctorado;Graduado;Hombres;1;0;0;0;0.31;;31/05/2021
+2020;Alajuela;Doctorado: Historia del arte [RD 1393/2007];Doctorado;Abandono Voluntario;Mujeres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: Historia moderna [RD 1393/2007];Doctorado;Graduado;Mujeres;1;0;0;0;0.37;;31/05/2021
+2020;Alajuela;Doctorado: IngenierÃ­a quÃ­mica y del medio ambiente [RD 1393/2007];Doctorado;Graduado;Mujeres;1;0;0;0;0.46;;31/05/2021
+2020;Alajuela;Doctorado: Medicina [RD 1393/2007];Doctorado;Graduado;Mujeres;2;0;0;0;0.25;;31/05/2021
+2020;Alajuela;Doctorado: Medicina y sanidad animal [RD 1393/2007];Doctorado;Abandono Voluntario;Hombres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: Medicina y sanidad animal [RD 1393/2007];Doctorado;Abandono Voluntario;Mujeres;0;2;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD BioquÃ­mica y biologÃ­a molecular [RD 99/2011];Doctorado;Abandono Voluntario;Hombres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD BioquÃ­mica y biologÃ­a molecular [RD 99/2011];Doctorado;Abandono Voluntario;Mujeres;0;2;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD BioquÃ­mica y biologÃ­a molecular [RD 99/2011];Doctorado;Graduado;Hombres;2;0;0;0;3.87;;31/05/2021
+2020;Alajuela;Doctorado: PD BioquÃ­mica y biologÃ­a molecular [RD 99/2011];Doctorado;Graduado;Mujeres;6;0;0;0;2.95;;31/05/2021
+2020;Alajuela;Doctorado: PD Calidad, seguridad y tecnologÃ­a de los alimentos [RD 99/2011];Doctorado;Graduado;Hombres;2;0;0;0;2.92;;31/05/2021
+2020;Alajuela;Doctorado: PD Ciencia analÃ­tica en quÃ­mica [RD 99/2011];Doctorado;Abandono Voluntario;Hombres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD Ciencia analÃ­tica en quÃ­mica [RD 99/2011];Doctorado;Graduado;Mujeres;3;0;0;0;2.01;;31/05/2021
+2020;Alajuela;Doctorado: PD Ciencia analÃ­tica en quÃ­mica [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Hombres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD Ciencias agrarias y del medio natural [RD 99/2011];Doctorado;Graduado;Hombres;5;0;0;0;2.79;;31/05/2021
+2020;Alajuela;Doctorado: PD Ciencias agrarias y del medio natural [RD 99/2011];Doctorado;Graduado;Mujeres;2;0;0;0;2.91;;31/05/2021
+2020;Alajuela;Doctorado: PD Ciencias biomÃ©dicas y biotecnolÃ³gicas [RD 99/2011];Doctorado;Graduado;Mujeres;3;0;0;0;1.24;;31/05/2021
+2020;Alajuela;Doctorado: PD Ciencias de la antigÃ¼edad [RD 99/2011];Doctorado;Cambio de estudios sin simultaneidad;Hombres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD Ciencias de la antigÃ¼edad [RD 99/2011];Doctorado;Graduado;Hombres;4;0;0;0;2.69;;31/05/2021
+2020;Alajuela;Doctorado: PD Ciencias de la antigÃ¼edad [RD 99/2011];Doctorado;Graduado;Mujeres;2;0;0;0;1.28;;31/05/2021
+2020;Alajuela;Doctorado: PD Ciencias de la antigÃ¼edad [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Hombres;0;2;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD Ciencias de la antigÃ¼edad [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Mujeres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD Ciencias de la salud y del deporte [RD 99/2011];Doctorado;Abandono Voluntario;Hombres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD Ciencias de la salud y del deporte [RD 99/2011];Doctorado;Abandono Voluntario;Mujeres;0;3;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD Ciencias de la salud y del deporte [RD 99/2011];Doctorado;Graduado;Hombres;3;0;0;0;2.35;;31/05/2021
+2020;Alajuela;Doctorado: PD Ciencias de la salud y del deporte [RD 99/2011];Doctorado;Graduado;Mujeres;4;0;0;0;2.94;;31/05/2021
+2020;Alajuela;Doctorado: PD Ciencias de la salud y del deporte [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Hombres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD Ciencias de la salud y del deporte [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Mujeres;0;5;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD Contabilidad y finanzas [RD 99/2011];Doctorado;Abandono Voluntario;Hombres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD Contabilidad y finanzas [RD 99/2011];Doctorado;Abandono Voluntario;Mujeres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD Contabilidad y finanzas [RD 99/2011];Doctorado;Graduado;Hombres;1;0;0;0;2.87;;31/05/2021
+2020;Alajuela;Doctorado: PD Contabilidad y finanzas [RD 99/2011];Doctorado;Graduado;Mujeres;2;0;0;0;2.02;;31/05/2021
+2020;Alajuela;Doctorado: PD Contabilidad y finanzas [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Hombres;0;3;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD Derecho [RD 99/2011];Doctorado;Abandono Voluntario;Mujeres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD Derecho [RD 99/2011];Doctorado;Graduado;Hombres;2;0;0;0;4.34;;31/05/2021
+2020;Alajuela;Doctorado: PD Derecho [RD 99/2011];Doctorado;Graduado;Mujeres;3;0;0;0;2.23;;31/05/2021
+2020;Alajuela;Doctorado: PD Derecho [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Hombres;0;9;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD Derecho [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Mujeres;0;7;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD Derechos humanos y libertades fundamentales [RD 99/2011];Doctorado;Graduado;Hombres;2;0;0;0;2.60;;31/05/2021
+2020;Alajuela;Doctorado: PD Derechos humanos y libertades fundamentales [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Mujeres;0;2;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD EconomÃ­a [RD 99/2011];Doctorado;Abandono Voluntario;Hombres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD EconomÃ­a [RD 99/2011];Doctorado;Graduado;Hombres;2;0;0;0;4.13;;31/05/2021
+2020;Alajuela;Doctorado: PD EconomÃ­a [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Hombres;0;2;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD EconomÃ­a [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Mujeres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD EconomÃ­a y gestiÃ³n de las organizaciones [RD 99/2011];Doctorado;Abandono Voluntario;Hombres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD EconomÃ­a y gestiÃ³n de las organizaciones [RD 99/2011];Doctorado;Abandono Voluntario;Mujeres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD EconomÃ­a y gestiÃ³n de las organizaciones [RD 99/2011];Doctorado;Graduado;Hombres;1;0;0;0;3.54;;31/05/2021
+2020;Alajuela;Doctorado: PD EconomÃ­a y gestiÃ³n de las organizaciones [RD 99/2011];Doctorado;Graduado;Mujeres;2;0;0;0;3.52;;31/05/2021
+2020;Alajuela;Doctorado: PD EconomÃ­a y gestiÃ³n de las organizaciones [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Hombres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD EducaciÃ³n [RD 99/2011];Doctorado;Abandono Voluntario;Mujeres;0;2;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD EducaciÃ³n [RD 99/2011];Doctorado;Graduado;Hombres;2;0;0;0;3.20;;31/05/2021
+2020;Alajuela;Doctorado: PD EducaciÃ³n [RD 99/2011];Doctorado;Graduado;Mujeres;1;0;0;0;2.84;;31/05/2021
+2020;Alajuela;Doctorado: PD EducaciÃ³n [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Hombres;0;5;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD EducaciÃ³n [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Mujeres;0;3;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD EnergÃ­as renovables y eficiencia energÃ©tica [RD 99/2011];Doctorado;Abandono Voluntario;Hombres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD EnergÃ­as renovables y eficiencia energÃ©tica [RD 99/2011];Doctorado;Graduado;Hombres;5;0;0;0;2.11;;31/05/2021
+2020;Alajuela;Doctorado: PD EnergÃ­as renovables y eficiencia energÃ©tica [RD 99/2011];Doctorado;Graduado;Mujeres;1;0;0;0;2.84;;31/05/2021
+2020;Alajuela;Doctorado: PD EnergÃ­as renovables y eficiencia energÃ©tica [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Hombres;0;2;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD Estudios ingleses [RD 99/2011];Doctorado;Graduado;Hombres;3;0;0;0;2.69;;31/05/2021
+2020;Alajuela;Doctorado: PD Estudios ingleses [RD 99/2011];Doctorado;Graduado;Mujeres;1;0;0;0;3.55;;31/05/2021
+2020;Alajuela;Doctorado: PD Estudios ingleses [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Mujeres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD FilosofÃ­a [RD 99/2011];Doctorado;Graduado;Hombres;1;0;0;0;3.39;;31/05/2021
+2020;Alajuela;Doctorado: PD FilosofÃ­a [RD 99/2011];Doctorado;Graduado;Mujeres;1;0;0;0;3.56;;31/05/2021
+2020;Alajuela;Doctorado: PD FilosofÃ­a [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Hombres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD FilosofÃ­a [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Mujeres;0;2;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD FÃ­sica [RD 99/2011];Doctorado;Graduado;Hombres;4;0;0;0;3.66;;31/05/2021
+2020;Alajuela;Doctorado: PD FÃ­sica [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Hombres;0;3;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD FÃ­sica [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Mujeres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD GeologÃ­a [RD 99/2011];Doctorado;Cambio de estudios sin simultaneidad;Mujeres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD GeologÃ­a [RD 99/2011];Doctorado;Graduado;Hombres;1;0;0;0;2.18;;31/05/2021
+2020;Alajuela;Doctorado: PD GeologÃ­a [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Hombres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD GeologÃ­a [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Mujeres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD Historia contemporÃ¡nea [RD 99/2011];Doctorado;Graduado;Hombres;2;0;0;0;2.58;;31/05/2021
+2020;Alajuela;Doctorado: PD Historia contemporÃ¡nea [RD 99/2011];Doctorado;Graduado;Mujeres;1;0;0;0;0.63;;31/05/2021
+2020;Alajuela;Doctorado: PD Historia contemporÃ¡nea [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Mujeres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD Historia del arte [RD 99/2011];Doctorado;Abandono Voluntario;Mujeres;0;2;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD Historia del arte [RD 99/2011];Doctorado;Cambio de estudios sin simultaneidad;Mujeres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD Historia del arte [RD 99/2011];Doctorado;Graduado;Hombres;2;0;0;0;2.14;;31/05/2021
+2020;Alajuela;Doctorado: PD Historia del arte [RD 99/2011];Doctorado;Graduado;Mujeres;4;0;0;0;1.90;;31/05/2021
+2020;Alajuela;Doctorado: PD Historia del arte [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Mujeres;0;2;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD Historia, sociedad y cultura: Ã©pocas medieval y moderna [RD 99/2011];Doctorado;Graduado;Hombres;1;0;0;0;2.35;;31/05/2021
+2020;Alajuela;Doctorado: PD Historia, sociedad y cultura: Ã©pocas medieval y moderna [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Hombres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD Historia, sociedad y cultura: Ã©pocas medieval y moderna [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Mujeres;0;2;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD InformaciÃ³n y ComunicaciÃ³n [RD 99/2011];Doctorado;Abandono Voluntario;Hombres;0;2;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD InformaciÃ³n y ComunicaciÃ³n [RD 99/2011];Doctorado;Graduado;Mujeres;2;0;0;0;2.78;;31/05/2021
+2020;Alajuela;Doctorado: PD InformaciÃ³n y ComunicaciÃ³n [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Mujeres;0;2;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD IngenierÃ­a biomÃ©dica [RD 99/2011];Doctorado;Abandono Voluntario;Hombres;0;2;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD IngenierÃ­a biomÃ©dica [RD 99/2011];Doctorado;Graduado;Hombres;3;0;0;0;3.08;;31/05/2021
+2020;Alajuela;Doctorado: PD IngenierÃ­a biomÃ©dica [RD 99/2011];Doctorado;Graduado;Mujeres;4;0;0;0;3.72;;31/05/2021
+2020;Alajuela;Doctorado: PD IngenierÃ­a de diseÃ±o y fabricaciÃ³n [RD 99/2011];Doctorado;Abandono Voluntario;Hombres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD IngenierÃ­a de diseÃ±o y fabricaciÃ³n [RD 99/2011];Doctorado;Graduado;Hombres;2;0;0;0;2.49;;31/05/2021
+2020;Alajuela;Doctorado: PD IngenierÃ­a de diseÃ±o y fabricaciÃ³n [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Hombres;0;2;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD IngenierÃ­a de sistemas e informÃ¡tica [RD 99/2011];Doctorado;Abandono Voluntario;Hombres;0;2;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD IngenierÃ­a de sistemas e informÃ¡tica [RD 99/2011];Doctorado;Abandono Voluntario;Mujeres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD IngenierÃ­a de sistemas e informÃ¡tica [RD 99/2011];Doctorado;Graduado;Hombres;6;0;0;0;3.50;;31/05/2021
+2020;Alajuela;Doctorado: PD IngenierÃ­a de sistemas e informÃ¡tica [RD 99/2011];Doctorado;Graduado;Mujeres;3;0;0;0;3.82;;31/05/2021
+2020;Alajuela;Doctorado: PD IngenierÃ­a de sistemas e informÃ¡tica [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Hombres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD IngenierÃ­a de sistemas e informÃ¡tica [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Mujeres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD IngenierÃ­a electrÃ³nica [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Hombres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD IngenierÃ­a mecÃ¡nica [RD 99/2011];Doctorado;Abandono Voluntario;Hombres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD IngenierÃ­a mecÃ¡nica [RD 99/2011];Doctorado;Graduado;Hombres;3;0;0;0;3.42;;31/05/2021
+2020;Alajuela;Doctorado: PD IngenierÃ­a mecÃ¡nica [RD 99/2011];Doctorado;Graduado;Mujeres;1;0;0;0;3.50;;31/05/2021
+2020;Alajuela;Doctorado: PD IngenierÃ­a mecÃ¡nica [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Hombres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD IngenierÃ­a mecÃ¡nica [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Mujeres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD IngenierÃ­a quÃ­mica y del medio ambiente [RD 99/2011];Doctorado;Graduado;Hombres;1;0;0;0;2.50;;31/05/2021
+2020;Alajuela;Doctorado: PD IngenierÃ­a quÃ­mica y del medio ambiente [RD 99/2011];Doctorado;Graduado;Mujeres;7;0;0;0;3.37;;31/05/2021
+2020;Alajuela;Doctorado: PD IngenierÃ­a quÃ­mica y del medio ambiente [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Hombres;0;2;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD IngenierÃ­a quÃ­mica y del medio ambiente [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Mujeres;0;2;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD LingÃ¼Ã­stica hispÃ¡nica [RD 99/2011];Doctorado;Abandono Voluntario;Mujeres;0;2;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD LingÃ¼Ã­stica hispÃ¡nica [RD 99/2011];Doctorado;Cambio de estudios sin simultaneidad;Hombres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD LingÃ¼Ã­stica hispÃ¡nica [RD 99/2011];Doctorado;Graduado;Hombres;1;0;0;0;3.96;;31/05/2021
+2020;Alajuela;Doctorado: PD LingÃ¼Ã­stica hispÃ¡nica [RD 99/2011];Doctorado;Graduado;Mujeres;3;0;0;0;3.11;;31/05/2021
+2020;Alajuela;Doctorado: PD LingÃ¼Ã­stica hispÃ¡nica [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Hombres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD LingÃ¼Ã­stica hispÃ¡nica [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Mujeres;0;2;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD Literaturas hispÃ¡nicas [RD 99/2011];Doctorado;Abandono Voluntario;Mujeres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD Literaturas hispÃ¡nicas [RD 99/2011];Doctorado;Graduado;Mujeres;2;0;0;0;1.69;;31/05/2021
+2020;Alajuela;Doctorado: PD Literaturas hispÃ¡nicas [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Hombres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD Literaturas hispÃ¡nicas [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Mujeres;0;2;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD MatemÃ¡ticas y estadÃ­stica [RD 99/2011];Doctorado;Graduado;Hombres;2;0;0;0;3.88;;31/05/2021
+2020;Alajuela;Doctorado: PD MatemÃ¡ticas y estadÃ­stica [RD 99/2011];Doctorado;Graduado;Mujeres;2;0;0;0;3.56;;31/05/2021
+2020;Alajuela;Doctorado: PD MecÃ¡nica de fluÃ­dos [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Hombres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD Medicina [RD 99/2011];Doctorado;Abandono Voluntario;Hombres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD Medicina [RD 99/2011];Doctorado;Abandono Voluntario;Mujeres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD Medicina [RD 99/2011];Doctorado;Graduado;Hombres;4;0;0;0;3.35;;31/05/2021
+2020;Alajuela;Doctorado: PD Medicina [RD 99/2011];Doctorado;Graduado;Mujeres;29;0;0;0;3.23;;31/05/2021
+2020;Alajuela;Doctorado: PD Medicina [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Hombres;0;5;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD Medicina [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Mujeres;0;7;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD Medicina y sanidad animal [RD 99/2011];Doctorado;Graduado;Hombres;4;0;0;0;1.08;;31/05/2021
+2020;Alajuela;Doctorado: PD Medicina y sanidad animal [RD 99/2011];Doctorado;Graduado;Mujeres;6;0;0;0;1.40;;31/05/2021
+2020;Alajuela;Doctorado: PD Medicina y sanidad animal [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Hombres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD Medicina y sanidad animal [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Mujeres;0;3;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD Nuevos territorios en la arquitectura [RD 99/2011];Doctorado;Abandono Voluntario;Mujeres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD Nuevos territorios en la arquitectura [RD 99/2011];Doctorado;Graduado;Hombres;2;0;0;0;3.36;;31/05/2021
+2020;Alajuela;Doctorado: PD OrdenaciÃ³n del territorio y medio ambiente [RD 99/2011];Doctorado;Abandono Voluntario;Hombres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD OrdenaciÃ³n del territorio y medio ambiente [RD 99/2011];Doctorado;Abandono Voluntario;Mujeres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD OrdenaciÃ³n del territorio y medio ambiente [RD 99/2011];Doctorado;Graduado;Mujeres;1;0;0;0;3.92;;31/05/2021
+2020;Alajuela;Doctorado: PD OrdenaciÃ³n del territorio y medio ambiente [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Hombres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD OrdenaciÃ³n del territorio y medio ambiente [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Mujeres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD Patrimonio, Sociedades y Espacios de Frontera [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Mujeres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD ProducciÃ³n animal [RD 99/2011];Doctorado;Graduado;Hombres;2;0;0;0;2.32;;31/05/2021
+2020;Alajuela;Doctorado: PD ProducciÃ³n animal [RD 99/2011];Doctorado;Graduado;Mujeres;2;0;0;0;3.66;;31/05/2021
+2020;Alajuela;Doctorado: PD QuÃ­mica fÃ­sica [RD 99/2011];Doctorado;Graduado;Hombres;2;0;0;0;3.74;;31/05/2021
+2020;Alajuela;Doctorado: PD QuÃ­mica inorgÃ¡nica [RD 99/2011];Doctorado;Graduado;Hombres;3;0;0;0;2.82;;31/05/2021
+2020;Alajuela;Doctorado: PD QuÃ­mica inorgÃ¡nica [RD 99/2011];Doctorado;Graduado;Mujeres;3;0;0;0;1.60;;31/05/2021
+2020;Alajuela;Doctorado: PD QuÃ­mica inorgÃ¡nica [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Hombres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD QuÃ­mica orgÃ¡nica [RD 99/2011];Doctorado;Graduado;Hombres;3;0;0;0;3.74;;31/05/2021
+2020;Alajuela;Doctorado: PD QuÃ­mica orgÃ¡nica [RD 99/2011];Doctorado;Graduado;Mujeres;2;0;0;0;4.00;;31/05/2021
+2020;Alajuela;Doctorado: PD QuÃ­mica orgÃ¡nica [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Hombres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD Relaciones de gÃ©nero y estudios feministas [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Mujeres;0;2;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD SociologÃ­a de las polÃ­ticas pÃºblicas y sociales [RD 99/2011];Doctorado;Graduado;Hombres;1;0;0;0;4.47;;31/05/2021
+2020;Alajuela;Doctorado: PD SociologÃ­a de las polÃ­ticas pÃºblicas y sociales [RD 99/2011];Doctorado;Graduado;Mujeres;1;0;0;0;4.29;;31/05/2021
+2020;Alajuela;Doctorado: PD SociologÃ­a de las polÃ­ticas pÃºblicas y sociales [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Hombres;0;4;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: PD SociologÃ­a de las polÃ­ticas pÃºblicas y sociales [RD 99/2011];Doctorado;Incumple RÃ©gimen de permanencia;Mujeres;0;4;0;0;;;31/05/2021
+2020;Alajuela;Doctorado: SociologÃ­a de las polÃ­ticas pÃºblicas y sociales [RD 1393/2007];Doctorado;Graduado;Mujeres;1;0;0;0;2.36;;31/05/2021
+2020;Alajuela;EnfermerÃ­a;Diplomatura o equivalente;Traslado a otra Universidad;Mujeres;0;0;0;1;;;31/05/2021
+2020;Alajuela;EstadÃ­stica;Diplomatura o equivalente;Traslado a otra Universidad;Hombres;0;0;0;2;;;31/05/2021
+2020;Alajuela;EstadÃ­stica;Diplomatura o equivalente;Traslado a otra Universidad;Mujeres;0;0;0;1;;;31/05/2021
+2020;Alajuela;FilologÃ­a HispÃ¡nica;Licenciatura o equivalente;Abandono Voluntario;Hombres;0;1;0;0;;;31/05/2021
+2020;Alajuela;FilologÃ­a HispÃ¡nica;Licenciatura o equivalente;Abandono Voluntario;Mujeres;0;2;0;0;;;31/05/2021
+2020;Alajuela;FilologÃ­a HispÃ¡nica;Licenciatura o equivalente;Traslado a otra Universidad;Hombres;0;0;0;1;;;31/05/2021
+2020;Alajuela;FilologÃ­a HispÃ¡nica;Licenciatura o equivalente;Traslado a otra Universidad;Mujeres;0;0;0;1;;;31/05/2021
+2020;Alajuela;FilologÃ­a Inglesa;Licenciatura o equivalente;Abandono Voluntario;Hombres;0;1;0;0;;;31/05/2021
+2020;Alajuela;FilologÃ­a Inglesa;Licenciatura o equivalente;Abandono Voluntario;Mujeres;0;2;0;0;;;31/05/2021
+2020;Alajuela;FilologÃ­a Inglesa;Licenciatura o equivalente;Traslado a otra Universidad;Mujeres;0;0;0;3;;;31/05/2021
+2020;Alajuela;GeografÃ­a;Licenciatura o equivalente;Abandono Voluntario;Mujeres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Bachillerato: AdministraciÃ³n y DirecciÃ³n de Empresas;Bachillerato;Abandono Voluntario;Hombres;0;80;24;0;;;31/05/2021
+2020;Alajuela;Bachillerato: AdministraciÃ³n y DirecciÃ³n de Empresas;Bachillerato;Abandono Voluntario;Mujeres;0;53;17;0;;;31/05/2021
+2020;Alajuela;Bachillerato: AdministraciÃ³n y DirecciÃ³n de Empresas;Bachillerato;Cambio de estudios sin simultaneidad;Hombres;0;17;12;0;;;31/05/2021
+2020;Alajuela;Bachillerato: AdministraciÃ³n y DirecciÃ³n de Empresas;Bachillerato;Cambio de estudios sin simultaneidad;Mujeres;0;9;8;0;;;31/05/2021
+2020;Alajuela;Bachillerato: AdministraciÃ³n y DirecciÃ³n de Empresas;Bachillerato;Graduado;Hombres;137;0;0;0;5.25;88.23;31/05/2021
+2020;Alajuela;Bachillerato: AdministraciÃ³n y DirecciÃ³n de Empresas;Bachillerato;Graduado;Mujeres;159;0;0;0;5.40;90.86;31/05/2021
+2020;Alajuela;Bachillerato: AdministraciÃ³n y DirecciÃ³n de Empresas;Bachillerato;Incumple RÃ©gimen de permanencia;Hombres;0;19;12;0;;;31/05/2021
+2020;Alajuela;Bachillerato: AdministraciÃ³n y DirecciÃ³n de Empresas;Bachillerato;Incumple RÃ©gimen de permanencia;Mujeres;0;5;1;0;;;31/05/2021
+2020;Alajuela;Bachillerato: AdministraciÃ³n y DirecciÃ³n de Empresas;Bachillerato;Traslado a otra Universidad;Hombres;0;0;0;14;;;31/05/2021
+2020;Alajuela;Bachillerato: AdministraciÃ³n y DirecciÃ³n de Empresas;Bachillerato;Traslado a otra Universidad;Mujeres;0;0;0;13;;;31/05/2021
+2020;Alajuela;Bachillerato: BiotecnologÃ­a;Bachillerato;Cambio de estudios sin simultaneidad;Mujeres;0;1;1;0;;;31/05/2021
+2020;Alajuela;Bachillerato: BiotecnologÃ­a;Bachillerato;Graduado;Hombres;19;0;0;0;4.06;96.43;31/05/2021
+2020;Alajuela;Bachillerato: BiotecnologÃ­a;Bachillerato;Graduado;Mujeres;44;0;0;0;4.13;98.66;31/05/2021
+2020;Alajuela;Bachillerato: BiotecnologÃ­a;Bachillerato;Incumple RÃ©gimen de permanencia;Hombres;0;1;1;0;;;31/05/2021
+2020;Alajuela;Bachillerato: BiotecnologÃ­a;Bachillerato;Incumple RÃ©gimen de permanencia;Mujeres;0;1;1;0;;;31/05/2021
+2020;Alajuela;Bachillerato: BiotecnologÃ­a;Bachillerato;Traslado a otra Universidad;Mujeres;0;0;0;1;;;31/05/2021
+2020;Alajuela;Bachillerato: Ciencia y TecnologÃ­a de los Alimentos;Bachillerato;Abandono Voluntario;Hombres;0;1;1;0;;;31/05/2021
+2020;Alajuela;Bachillerato: Ciencia y TecnologÃ­a de los Alimentos;Bachillerato;Abandono Voluntario;Mujeres;0;3;1;0;;;31/05/2021
+2020;Alajuela;Bachillerato: Ciencia y TecnologÃ­a de los Alimentos;Bachillerato;Cambio de estudios sin simultaneidad;Hombres;0;1;1;0;;;31/05/2021
+2020;Alajuela;Bachillerato: Ciencia y TecnologÃ­a de los Alimentos;Bachillerato;Cambio de estudios sin simultaneidad;Mujeres;0;4;4;0;;;31/05/2021
+2020;Alajuela;Bachillerato: Ciencia y TecnologÃ­a de los Alimentos;Bachillerato;Graduado;Hombres;14;0;0;0;4.57;91.01;31/05/2021
+2020;Alajuela;Bachillerato: Ciencia y TecnologÃ­a de los Alimentos;Bachillerato;Graduado;Mujeres;29;0;0;0;4.19;94.37;31/05/2021
+2020;Alajuela;Bachillerato: Ciencia y TecnologÃ­a de los Alimentos;Bachillerato;Incumple RÃ©gimen de permanencia;Hombres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Bachillerato: Ciencia y TecnologÃ­a de los Alimentos;Bachillerato;Incumple RÃ©gimen de permanencia;Mujeres;0;2;2;0;;;31/05/2021
+2020;Alajuela;Bachillerato: Ciencia y TecnologÃ­a de los Alimentos;Bachillerato;Traslado a otra Universidad;Hombres;0;0;0;2;;;31/05/2021
+2020;Alajuela;Bachillerato: Ciencia y TecnologÃ­a de los Alimentos;Bachillerato;Traslado a otra Universidad;Mujeres;0;0;0;3;;;31/05/2021
+2020;Alajuela;Bachillerato: Derecho;Bachillerato;Abandono Voluntario;Hombres;0;26;9;0;;;31/05/2021
+2020;Alajuela;Bachillerato: Derecho;Bachillerato;Abandono Voluntario;Mujeres;0;27;9;0;;;31/05/2021
+2020;Alajuela;Bachillerato: Derecho;Bachillerato;Cambio de estudios sin simultaneidad;Hombres;0;4;3;0;;;31/05/2021
+2020;Alajuela;Bachillerato: Derecho;Bachillerato;Cambio de estudios sin simultaneidad;Mujeres;0;10;7;0;;;31/05/2021
+2020;Alajuela;Bachillerato: Derecho;Bachillerato;Graduado;Hombres;113;0;0;0;5.00;91.53;31/05/2021
+2020;Alajuela;Bachillerato: Derecho;Bachillerato;Graduado;Mujeres;191;0;0;0;4.91;92.12;31/05/2021
+2020;Alajuela;Bachillerato: Derecho;Bachillerato;Incumple RÃ©gimen de permanencia;Hombres;0;1;1;0;;;31/05/2021
+2020;Alajuela;Bachillerato: Derecho;Bachillerato;Incumple RÃ©gimen de permanencia;Mujeres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Bachillerato: Derecho;Bachillerato;Traslado a otra Universidad;Hombres;0;0;0;15;;;31/05/2021
+2020;Alajuela;Bachillerato: Derecho;Bachillerato;Traslado a otra Universidad;Mujeres;0;0;0;12;;;31/05/2021
+2020;Alajuela;Bachillerato: EconomÃ­a;Bachillerato;Abandono Voluntario;Hombres;0;35;19;0;;;31/05/2021
+2020;Alajuela;Bachillerato: EconomÃ­a;Bachillerato;Abandono Voluntario;Mujeres;0;21;8;0;;;31/05/2021
+2020;Alajuela;Bachillerato: EconomÃ­a;Bachillerato;Cambio de estudios sin simultaneidad;Hombres;0;8;4;0;;;31/05/2021
+2020;Alajuela;Bachillerato: EconomÃ­a;Bachillerato;Cambio de estudios sin simultaneidad;Mujeres;0;3;2;0;;;31/05/2021
+2020;Alajuela;Bachillerato: EconomÃ­a;Bachillerato;Graduado;Hombres;50;0;0;0;5.40;78.66;31/05/2021
+2020;Alajuela;Bachillerato: EconomÃ­a;Bachillerato;Graduado;Mujeres;42;0;0;0;5.50;80.29;31/05/2021
+2020;Alajuela;Bachillerato: EconomÃ­a;Bachillerato;Incumple RÃ©gimen de permanencia;Hombres;0;14;8;0;;;31/05/2021
+2020;Alajuela;Bachillerato: EconomÃ­a;Bachillerato;Incumple RÃ©gimen de permanencia;Mujeres;0;5;3;0;;;31/05/2021
+2020;Alajuela;Bachillerato: EconomÃ­a;Bachillerato;Traslado a otra Universidad;Hombres;0;0;0;14;;;31/05/2021
+2020;Alajuela;Bachillerato: EconomÃ­a;Bachillerato;Traslado a otra Universidad;Mujeres;0;0;0;2;;;31/05/2021
+2020;Alajuela;Bachillerato: EnfermerÃ­a;Bachillerato;Abandono Voluntario;Hombres;0;5;2;0;;;31/05/2021
+2020;Alajuela;Bachillerato: EnfermerÃ­a;Bachillerato;Abandono Voluntario;Mujeres;0;6;3;0;;;31/05/2021
+2020;Alajuela;Bachillerato: EnfermerÃ­a;Bachillerato;Cambio de estudios sin simultaneidad;Hombres;0;3;2;0;;;31/05/2021
+2020;Alajuela;Bachillerato: EnfermerÃ­a;Bachillerato;Cambio de estudios sin simultaneidad;Mujeres;0;15;15;0;;;31/05/2021
+2020;Alajuela;Bachillerato: EnfermerÃ­a;Bachillerato;Graduado;Hombres;27;0;0;0;4.00;95.14;31/05/2021
+2020;Alajuela;Bachillerato: EnfermerÃ­a;Bachillerato;Graduado;Mujeres;123;0;0;0;4.08;96.95;31/05/2021
+2020;Alajuela;Bachillerato: EnfermerÃ­a;Bachillerato;Incumple RÃ©gimen de permanencia;Hombres;0;1;1;0;;;31/05/2021
+2020;Alajuela;Bachillerato: EnfermerÃ­a;Bachillerato;Traslado a otra Universidad;Mujeres;0;0;0;2;;;31/05/2021
+2020;Alajuela;Bachillerato: Estudios ClÃ¡sicos;Bachillerato;Abandono Voluntario;Hombres;0;2;1;0;;;31/05/2021
+2020;Alajuela;Bachillerato: Estudios ClÃ¡sicos;Bachillerato;Abandono Voluntario;Mujeres;0;6;2;0;;;31/05/2021
+2020;Alajuela;Bachillerato: Estudios ClÃ¡sicos;Bachillerato;Cambio de estudios sin simultaneidad;Hombres;0;1;1;0;;;31/05/2021
+2020;Alajuela;Bachillerato: Estudios ClÃ¡sicos;Bachillerato;Cambio de estudios sin simultaneidad;Mujeres;0;4;1;0;;;31/05/2021
+2020;Alajuela;Bachillerato: Estudios ClÃ¡sicos;Bachillerato;Graduado;Hombres;3;0;0;0;4.67;95.98;31/05/2021
+2020;Alajuela;Bachillerato: Estudios ClÃ¡sicos;Bachillerato;Graduado;Mujeres;1;0;0;0;5.00;92.97;31/05/2021
+2020;Alajuela;Bachillerato: Estudios ClÃ¡sicos;Bachillerato;Incumple RÃ©gimen de permanencia;Hombres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Bachillerato: Estudios ClÃ¡sicos;Bachillerato;Incumple RÃ©gimen de permanencia;Mujeres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Bachillerato: Estudios ClÃ¡sicos;Bachillerato;Traslado a otra Universidad;Hombres;0;0;0;1;;;31/05/2021
+2020;Alajuela;Bachillerato: Estudios en Arquitectura;Bachillerato;Abandono Voluntario;Hombres;0;9;4;0;;;31/05/2021
+2020;Alajuela;Bachillerato: Estudios en Arquitectura;Bachillerato;Abandono Voluntario;Mujeres;0;8;4;0;;;31/05/2021
+2020;Alajuela;Bachillerato: Estudios en Arquitectura;Bachillerato;Cambio de estudios sin simultaneidad;Hombres;0;4;1;0;;;31/05/2021
+2020;Alajuela;Bachillerato: Estudios en Arquitectura;Bachillerato;Cambio de estudios sin simultaneidad;Mujeres;0;3;0;0;;;31/05/2021
+2020;Alajuela;Bachillerato: Estudios en Arquitectura;Bachillerato;Graduado;Hombres;25;0;0;0;6.05;88.48;31/05/2021
+2020;Alajuela;Bachillerato: Estudios en Arquitectura;Bachillerato;Graduado;Mujeres;22;0;0;0;5.65;89.90;31/05/2021
+2020;Alajuela;Bachillerato: Estudios en Arquitectura;Bachillerato;Incumple RÃ©gimen de permanencia;Hombres;0;4;3;0;;;31/05/2021
+2020;Alajuela;Bachillerato: Estudios en Arquitectura;Bachillerato;Traslado a otra Universidad;Hombres;0;0;0;5;;;31/05/2021
+2020;Alajuela;Bachillerato: Estudios en Arquitectura;Bachillerato;Traslado a otra Universidad;Mujeres;0;0;0;2;;;31/05/2021
+2020;Alajuela;Bachillerato: Estudios Ingleses;Bachillerato;Abandono Voluntario;Hombres;0;8;4;0;;;31/05/2021
+2020;Alajuela;Bachillerato: Estudios Ingleses;Bachillerato;Abandono Voluntario;Mujeres;0;20;4;0;;;31/05/2021
+2020;Alajuela;Bachillerato: Estudios Ingleses;Bachillerato;Cambio de estudios sin simultaneidad;Mujeres;0;4;2;0;;;31/05/2021
+2020;Alajuela;Bachillerato: Estudios Ingleses;Bachillerato;Graduado;Hombres;13;0;0;0;4.44;88.45;31/05/2021
+2020;Alajuela;Bachillerato: Estudios Ingleses;Bachillerato;Graduado;Mujeres;47;0;0;0;4.66;89.98;31/05/2021
+2020;Alajuela;Bachillerato: Estudios Ingleses;Bachillerato;Incumple RÃ©gimen de permanencia;Hombres;0;1;0;0;;;31/05/2021
+2020;Alajuela;Bachillerato: Estudios Ingleses;Bachillerato;Incumple RÃ©gimen de permanencia;Mujeres;0;2;1;0;;;31/05/2021
+2020;Alajuela;Bachillerato: Estudios Ingleses;Bachillerato;Traslado a otra Universidad;Hombres;0;0;0;1;;;31/05/2021
+2020;Alajuela;Bachillerato: Estudios Ingleses;Bachillerato;Traslado a otra Universidad;Mujeres;0;0;0;4;;;31/05/2021
+2020;Alajuela;Bachillerato: FilologÃ­a HispÃ¡nica;Bachillerato;Abandono Voluntario;Hombres;0;13;9;0;;;31/05/2021
+2020;Alajuela;Bachillerato: FilologÃ­a HispÃ¡nica;Bachillerato;Abandono Voluntario;Mujeres;0;8;2;0;;;31/05/2021
+2020;Alajuela;Bachillerato: FilologÃ­a HispÃ¡nica;Bachillerato;Cambio de estudios sin simultaneidad;Hombres;0;2;2;0;;;31/05/2021
+2020;Alajuela;Bachillerato: FilologÃ­a HispÃ¡nica;Bachillerato;Cambio de estudios sin simultaneidad;Mujeres;0;4;3;0;;;31/05/2021
+2020;Alajuela;Bachillerato: FilologÃ­a HispÃ¡nica;Bachillerato;Graduado;Hombres;8;0;0;0;4.71;92.22;31/05/2021
+2020;Alajuela;Bachillerato: FilologÃ­a HispÃ¡nica;Bachillerato;Graduado;Mujeres;33;0;0;0;4.88;87.66;31/05/2021
+2020;Alajuela;Bachillerato: FilologÃ­a HispÃ¡nica;Bachillerato;Incumple RÃ©gimen de permanencia;Hombres;0;2;1;0;;;31/05/2021
+2020;Alajuela;Bachillerato: FilologÃ­a HispÃ¡nica;Bachillerato;Incumple RÃ©gimen de permanencia;Mujeres;0;3;3;0;;;31/05/2021
+2020;Alajuela;Bachillerato: FilologÃ­a HispÃ¡nica;Bachillerato;Traslado a otra Universidad;Hombres;0;0;0;2;;;31/05/2021
+2020;Alajuela;Bachillerato: FilologÃ­a HispÃ¡nica;Bachillerato;Traslado a otra Universidad;Mujeres;0;0;0;4;;;31/05/2021
+2020;Alajuela;Bachillerato: FilosofÃ­a;Bachillerato;Abandono Voluntario;Hombres;0;6;2;0;;;31/05/2021
+2020;Alajuela;Bachillerato: FilosofÃ­a;Bachillerato;Abandono Voluntario;Mujeres;0;6;3;0;;;31/05/2021
+2020;Alajuela;Bachillerato: FilosofÃ­a;Bachillerato;Cambio de estudios sin simultaneidad;Hombres;0;2;1;0;;;31/05/2021
+2020;Alajuela;Bachillerato: FilosofÃ­a;Bachillerato;Cambio de estudios sin simultaneidad;Mujeres;0;1;1;0;;;31/05/2021
+2020;Alajuela;Bachillerato: FilosofÃ­a;Bachillerato;Graduado;Hombres;8;0;0;0;4.62;90.65;31/05/2021
+2020;Alajuela;Bachillerato: FilosofÃ­a;Bachillerato;Graduado;Mujeres;9;0;0;0;4.44;87.53;31/05/2021
+2020;Alajuela;Bachillerato: FilosofÃ­a;Bachillerato;Incumple RÃ©gimen de permanencia;Hombres;0;2;1;0;;;31/05/2021
+2020;Alajuela;Bachillerato: FilosofÃ­a;Bachillerato;Incumple RÃ©gimen de permanencia;Mujeres;0;1;1;0;;;31/05/2021
+2020;Alajuela;Bachillerato: FilosofÃ­a;Bachillerato;Traslado a otra Universidad;Hombres;0;0;0;1;;;31/05/2021
+2020;Alajuela;Bachillerato: Finanzas y Contabilidad;Bachillerato;Abandono Voluntario;Hombres;0;31;16;0;;;31/05/2021
+2018;Alajuela;Bachillerato: Finanzas y Contabilidad;Bachillerato;Abandono Voluntario;Mujeres;0;21;8;0;;;31/05/2021
+2018;Alajuela;Bachillerato: Finanzas y Contabilidad;Bachillerato;Cambio de estudios sin simultaneidad;Hombres;0;5;4;0;;;31/05/2021
+2018;Alajuela;Bachillerato: Finanzas y Contabilidad;Bachillerato;Cambio de estudios sin simultaneidad;Mujeres;0;14;11;0;;;31/05/2021
+2018;Alajuela;Bachillerato: Finanzas y Contabilidad;Bachillerato;Graduado;Hombres;34;0;0;0;5.07;83.69;31/05/2021
+2018;Alajuela;Bachillerato: Finanzas y Contabilidad;Bachillerato;Graduado;Mujeres;34;0;0;0;5.27;84.60;31/05/2021
+2018;Alajuela;Bachillerato: Finanzas y Contabilidad;Bachillerato;Incumple RÃ©gimen de permanencia;Hombres;0;9;6;0;;;31/05/2021
+2018;Alajuela;Bachillerato: Finanzas y Contabilidad;Bachillerato;Incumple RÃ©gimen de permanencia;Mujeres;0;7;3;0;;;31/05/2021
+2018;Alajuela;Bachillerato: Finanzas y Contabilidad;Bachillerato;Traslado a otra Universidad;Hombres;0;0;0;2;;;31/05/2021
+2018;Alajuela;Bachillerato: Finanzas y Contabilidad;Bachillerato;Traslado a otra Universidad;Mujeres;0;0;0;6;;;31/05/2021
+2018;Alajuela;Bachillerato: FÃ­sica;Bachillerato;Abandono Voluntario;Hombres;0;11;2;0;;;31/05/2021
+2018;Alajuela;Bachillerato: FÃ­sica;Bachillerato;Abandono Voluntario;Mujeres;0;2;1;0;;;31/05/2021
+2018;Alajuela;Bachillerato: FÃ­sica;Bachillerato;Cambio de estudios sin simultaneidad;Hombres;0;2;1;0;;;31/05/2021
+2018;Alajuela;Bachillerato: FÃ­sica;Bachillerato;Cambio de estudios sin simultaneidad;Mujeres;0;7;3;0;;;31/05/2021
+2018;Alajuela;Bachillerato: FÃ­sica;Bachillerato;Graduado;Hombres;30;0;0;0;4.63;89.32;31/05/2021
+2018;Alajuela;Bachillerato: FÃ­sica;Bachillerato;Graduado;Mujeres;3;0;0;0;4.00;99.16;31/05/2021
+2018;Alajuela;Bachillerato: FÃ­sica;Bachillerato;Incumple RÃ©gimen de permanencia;Hombres;0;3;0;0;;;31/05/2021
+2018;Alajuela;Bachillerato: FÃ­sica;Bachillerato;Incumple RÃ©gimen de permanencia;Mujeres;0;2;0;0;;;31/05/2021
+2018;Alajuela;Bachillerato: FÃ­sica;Bachillerato;Traslado a otra Universidad;Hombres;0;0;0;4;;;31/05/2021
+2018;Alajuela;Bachillerato: FÃ­sica;Bachillerato;Traslado a otra Universidad;Mujeres;0;0;0;5;;;31/05/2021
+2018;Alajuela;Bachillerato: Fisioterapia;Bachillerato;Abandono Voluntario;Hombres;0;1;1;0;;;31/05/2021
+2018;Alajuela;Bachillerato: Fisioterapia;Bachillerato;Abandono Voluntario;Mujeres;0;3;3;0;;;31/05/2021
+2018;Alajuela;Bachillerato: Fisioterapia;Bachillerato;Cambio de estudios sin simultaneidad;Mujeres;0;2;2;0;;;31/05/2021
+2018;Alajuela;Bachillerato: Fisioterapia;Bachillerato;Graduado;Hombres;21;0;0;0;4.00;94.12;31/05/2021
+2018;Alajuela;Bachillerato: Fisioterapia;Bachillerato;Graduado;Mujeres;32;0;0;0;4.03;97.32;31/05/2021
+2018;Alajuela;Bachillerato: Fisioterapia;Bachillerato;Traslado a otra Universidad;Mujeres;0;0;0;1;;;31/05/2021
+2018;Alajuela;Bachillerato: GeografÃ­a y OrdenaciÃ³n del Territorio;Bachillerato;Abandono Voluntario;Hombres;0;12;8;0;;;31/05/2021
+2018;Alajuela;Bachillerato: GeografÃ­a y OrdenaciÃ³n del Territorio;Bachillerato;Abandono Voluntario;Mujeres;0;3;0;0;;;31/05/2021
+2018;Alajuela;Bachillerato: GeografÃ­a y OrdenaciÃ³n del Territorio;Bachillerato;Graduado;Hombres;30;0;0;0;4.72;92.47;31/05/2021
+2018;Alajuela;Bachillerato: GeografÃ­a y OrdenaciÃ³n del Territorio;Bachillerato;Graduado;Mujeres;6;0;0;0;4.17;96.19;31/05/2021
+2018;Alajuela;Bachillerato: GeografÃ­a y OrdenaciÃ³n del Territorio;Bachillerato;Incumple RÃ©gimen de permanencia;Hombres;0;1;1;0;;;31/05/2021
+2018;Alajuela;Bachillerato: GeografÃ­a y OrdenaciÃ³n del Territorio;Bachillerato;Traslado a otra Universidad;Mujeres;0;0;0;1;;;31/05/2021
+2018;Alajuela;Bachillerato: GeologÃ­a;Bachillerato;Abandono Voluntario;Hombres;0;12;4;0;;;31/05/2021
+2018;Alajuela;Bachillerato: GeologÃ­a;Bachillerato;Abandono Voluntario;Mujeres;0;8;4;0;;;31/05/2021
+2018;Alajuela;Bachillerato: GeologÃ­a;Bachillerato;Cambio de estudios sin simultaneidad;Hombres;0;3;3;0;;;31/05/2021
+2018;Alajuela;Bachillerato: GeologÃ­a;Bachillerato;Cambio de estudios sin simultaneidad;Mujeres;0;1;1;0;;;31/05/2021
+2018;Alajuela;Bachillerato: GeologÃ­a;Bachillerato;Graduado;Hombres;5;0;0;0;5.20;81.16;31/05/2021
+2018;Alajuela;Bachillerato: GeologÃ­a;Bachillerato;Graduado;Mujeres;3;0;0;0;5.00;86.68;31/05/2021
+2018;Alajuela;Bachillerato: GeologÃ­a;Bachillerato;Incumple RÃ©gimen de permanencia;Hombres;0;3;2;0;;;31/05/2021
+2018;Alajuela;Bachillerato: GeologÃ­a;Bachillerato;Traslado a otra Universidad;Hombres;0;0;0;2;;;31/05/2021
+2018;Alajuela;Bachillerato: Historia;Bachillerato;Abandono Voluntario;Hombres;0;40;13;0;;;31/05/2021
+2018;Alajuela;Bachillerato: Historia;Bachillerato;Abandono Voluntario;Mujeres;0;9;0;0;;;31/05/2021
+2018;Alajuela;Bachillerato: Historia;Bachillerato;Cambio de estudios sin simultaneidad;Hombres;0;2;1;0;;;31/05/2021
+2018;Alajuela;Bachillerato: Historia;Bachillerato;Graduado;Hombres;44;0;0;0;5.10;88.84;31/05/2021
+2018;Alajuela;Bachillerato: Historia;Bachillerato;Graduado;Mujeres;25;0;0;0;4.75;92.43;31/05/2021
+2018;Alajuela;Bachillerato: Historia;Bachillerato;Incumple RÃ©gimen de permanencia;Hombres;0;3;3;0;;;31/05/2021
+2018;Alajuela;Bachillerato: Historia;Bachillerato;Incumple RÃ©gimen de permanencia;Mujeres;0;1;1;0;;;31/05/2021
+2018;Alajuela;Bachillerato: Historia;Bachillerato;Traslado a otra Universidad;Hombres;0;0;0;8;;;31/05/2021
+2018;Alajuela;Bachillerato: Historia;Bachillerato;Traslado a otra Universidad;Mujeres;0;0;0;1;;;31/05/2021
+2018;Alajuela;Bachillerato: Historia del Arte;Bachillerato;Abandono Voluntario;Hombres;0;13;7;0;;;31/05/2021
+2018;Alajuela;Bachillerato: Historia del Arte;Bachillerato;Abandono Voluntario;Mujeres;0;23;12;0;;;31/05/2021
+2018;Alajuela;Bachillerato: Historia del Arte;Bachillerato;Graduado;Hombres;8;0;0;0;4.38;88.46;31/05/2021
+2018;Alajuela;Bachillerato: Historia del Arte;Bachillerato;Graduado;Mujeres;16;0;0;0;5.00;88.99;31/05/2021
+2018;Alajuela;Bachillerato: Historia del Arte;Bachillerato;Incumple RÃ©gimen de permanencia;Mujeres;0;1;0;0;;;31/05/2021
+2018;Alajuela;Bachillerato: Historia del Arte;Bachillerato;Traslado a otra Universidad;Hombres;0;0;0;1;;;31/05/2021
+2018;Alajuela;Bachillerato: Historia del Arte;Bachillerato;Traslado a otra Universidad;Mujeres;0;0;0;2;;;31/05/2021
+2018;Alajuela;Bachillerato: InformaciÃ³n y DocumentaciÃ³n;Bachillerato;Abandono Voluntario;Hombres;0;5;3;0;;;31/05/2021
+2018;Alajuela;Bachillerato: InformaciÃ³n y DocumentaciÃ³n;Bachillerato;Abandono Voluntario;Mujeres;0;4;2;0;;;31/05/2021
+2018;Alajuela;Bachillerato: InformaciÃ³n y DocumentaciÃ³n;Bachillerato;Graduado;Hombres;7;0;0;0;4.00;95.76;31/05/2021
+2018;Alajuela;Bachillerato: InformaciÃ³n y DocumentaciÃ³n;Bachillerato;Graduado;Mujeres;11;0;0;0;4.67;94.60;31/05/2021
+2018;Alajuela;Bachillerato: InformaciÃ³n y DocumentaciÃ³n;Bachillerato;Traslado a otra Universidad;Hombres;0;0;0;1;;;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a de OrganizaciÃ³n Industrial;Bachillerato;Abandono Voluntario;Hombres;0;17;14;0;;;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a de OrganizaciÃ³n Industrial;Bachillerato;Abandono Voluntario;Mujeres;0;2;2;0;;;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a de OrganizaciÃ³n Industrial;Bachillerato;Cambio de estudios sin simultaneidad;Hombres;0;1;1;0;;;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a de OrganizaciÃ³n Industrial;Bachillerato;Graduado;Hombres;134;0;0;0;5.52;89.62;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a de OrganizaciÃ³n Industrial;Bachillerato;Graduado;Mujeres;6;0;0;0;5.50;93.83;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a de OrganizaciÃ³n Industrial;Bachillerato;Traslado a otra Universidad;Hombres;0;0;0;79;;;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a de OrganizaciÃ³n Industrial;Bachillerato;Traslado a otra Universidad;Mujeres;0;0;0;10;;;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a de TecnologÃ­as Industriales;Bachillerato;Abandono Voluntario;Hombres;0;8;3;0;;;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a de TecnologÃ­as Industriales;Bachillerato;Abandono Voluntario;Mujeres;0;2;0;0;;;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a de TecnologÃ­as Industriales;Bachillerato;Cambio de estudios sin simultaneidad;Hombres;0;19;10;0;;;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a de TecnologÃ­as Industriales;Bachillerato;Cambio de estudios sin simultaneidad;Mujeres;0;7;2;0;;;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a de TecnologÃ­as Industriales;Bachillerato;Graduado;Hombres;71;0;0;0;5.19;82.34;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a de TecnologÃ­as Industriales;Bachillerato;Graduado;Mujeres;30;0;0;0;5.14;80.00;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a de TecnologÃ­as Industriales;Bachillerato;Incumple RÃ©gimen de permanencia;Hombres;0;16;4;0;;;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a de TecnologÃ­as Industriales;Bachillerato;Incumple RÃ©gimen de permanencia;Mujeres;0;7;0;0;;;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a de TecnologÃ­as Industriales;Bachillerato;Traslado a otra Universidad;Hombres;0;0;0;4;;;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a de TecnologÃ­as Industriales;Bachillerato;Traslado a otra Universidad;Mujeres;0;0;0;3;;;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a de TecnologÃ­as y Servicios de TelecomunicaciÃ³n;Bachillerato;Abandono Voluntario;Hombres;0;18;14;0;;;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a de TecnologÃ­as y Servicios de TelecomunicaciÃ³n;Bachillerato;Abandono Voluntario;Mujeres;0;2;1;0;;;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a de TecnologÃ­as y Servicios de TelecomunicaciÃ³n;Bachillerato;Cambio de estudios sin simultaneidad;Hombres;0;4;3;0;;;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a de TecnologÃ­as y Servicios de TelecomunicaciÃ³n;Bachillerato;Graduado;Hombres;31;0;0;0;5.58;77.78;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a de TecnologÃ­as y Servicios de TelecomunicaciÃ³n;Bachillerato;Graduado;Mujeres;9;0;0;0;4.62;89.55;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a de TecnologÃ­as y Servicios de TelecomunicaciÃ³n;Bachillerato;Incumple RÃ©gimen de permanencia;Hombres;0;24;17;0;;;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a de TecnologÃ­as y Servicios de TelecomunicaciÃ³n;Bachillerato;Incumple RÃ©gimen de permanencia;Mujeres;0;3;3;0;;;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a de TecnologÃ­as y Servicios de TelecomunicaciÃ³n;Bachillerato;Traslado a otra Universidad;Hombres;0;0;0;4;;;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a de TecnologÃ­as y Servicios de TelecomunicaciÃ³n;Bachillerato;Traslado a otra Universidad;Mujeres;0;0;0;2;;;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a Electrica;Bachillerato;Abandono Voluntario;Hombres;0;31;15;0;;;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a Electrica;Bachillerato;Abandono Voluntario;Mujeres;0;3;3;0;;;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a Electrica;Bachillerato;Cambio de estudios sin simultaneidad;Hombres;0;5;5;0;;;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a Electrica;Bachillerato;Cambio de estudios sin simultaneidad;Mujeres;0;1;0;0;;;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a Electrica;Bachillerato;Graduado;Hombres;30;0;0;0;6.14;75.17;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a Electrica;Bachillerato;Graduado;Mujeres;6;0;0;0;5.33;81.66;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a Electrica;Bachillerato;Incumple RÃ©gimen de permanencia;Hombres;0;9;6;0;;;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a Electrica;Bachillerato;Incumple RÃ©gimen de permanencia;Mujeres;0;2;1;0;;;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a Electrica;Bachillerato;Traslado a otra Universidad;Hombres;0;0;0;4;;;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a Electrica;Bachillerato;Traslado a otra Universidad;Mujeres;0;0;0;1;;;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a ElectrÃ³nica y AutomÃ¡tica;Bachillerato;Abandono Voluntario;Hombres;0;35;22;0;;;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a ElectrÃ³nica y AutomÃ¡tica;Bachillerato;Abandono Voluntario;Mujeres;0;4;1;0;;;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a ElectrÃ³nica y AutomÃ¡tica;Bachillerato;Cambio de estudios sin simultaneidad;Hombres;0;5;2;0;;;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a ElectrÃ³nica y AutomÃ¡tica;Bachillerato;Cambio de estudios sin simultaneidad;Mujeres;0;3;3;0;;;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a ElectrÃ³nica y AutomÃ¡tica;Bachillerato;Graduado;Hombres;38;0;0;0;6.21;74.15;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a ElectrÃ³nica y AutomÃ¡tica;Bachillerato;Graduado;Mujeres;5;0;0;0;5.20;86.48;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a ElectrÃ³nica y AutomÃ¡tica;Bachillerato;Incumple RÃ©gimen de permanencia;Hombres;0;22;15;0;;;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a ElectrÃ³nica y AutomÃ¡tica;Bachillerato;Incumple RÃ©gimen de permanencia;Mujeres;0;1;1;0;;;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a ElectrÃ³nica y AutomÃ¡tica;Bachillerato;Traslado a otra Universidad;Hombres;0;0;0;2;;;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a ElectrÃ³nica y AutomÃ¡tica;Bachillerato;Traslado a otra Universidad;Mujeres;0;0;0;1;;;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a InformÃ¡tica;Bachillerato;Abandono Voluntario;Hombres;0;22;8;0;;;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a InformÃ¡tica;Bachillerato;Abandono Voluntario;Mujeres;0;1;0;0;;;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a InformÃ¡tica;Bachillerato;Cambio de estudios sin simultaneidad;Hombres;0;6;4;0;;;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a InformÃ¡tica;Bachillerato;Cambio de estudios sin simultaneidad;Mujeres;0;1;1;0;;;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a InformÃ¡tica;Bachillerato;Graduado;Hombres;46;0;0;0;5.31;83.34;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a InformÃ¡tica;Bachillerato;Graduado;Mujeres;7;0;0;0;5.57;77.77;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a InformÃ¡tica;Bachillerato;Incumple RÃ©gimen de permanencia;Hombres;0;2;2;0;;;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a InformÃ¡tica;Bachillerato;Incumple RÃ©gimen de permanencia;Mujeres;0;2;2;0;;;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a InformÃ¡tica;Bachillerato;Traslado a otra Universidad;Hombres;0;0;0;5;;;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a InformÃ¡tica;Bachillerato;Traslado a otra Universidad;Mujeres;0;0;0;1;;;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a MecÃ¡nica;Bachillerato;Abandono Voluntario;Hombres;0;65;30;0;;;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a MecÃ¡nica;Bachillerato;Abandono Voluntario;Mujeres;0;9;5;0;;;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a MecÃ¡nica;Bachillerato;Cambio de estudios sin simultaneidad;Hombres;0;19;10;0;;;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a MecÃ¡nica;Bachillerato;Cambio de estudios sin simultaneidad;Mujeres;0;5;4;0;;;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a MecÃ¡nica;Bachillerato;Graduado;Hombres;109;0;0;0;5.78;76.85;31/05/2021
+2018;Alajuela;Bachillerato: IngenierÃ­a MecÃ¡nica;Bachillerato;Graduado;Mujeres;15;0;0;0;5.36;79.61;31/05/2021
+2019;Alajuela;Bachillerato: IngenierÃ­a MecÃ¡nica;Bachillerato;Incumple RÃ©gimen de permanencia;Hombres;0;38;23;0;;;31/05/2021
+2019;Alajuela;Bachillerato: IngenierÃ­a MecÃ¡nica;Bachillerato;Incumple RÃ©gimen de permanencia;Mujeres;0;8;4;0;;;31/05/2021
+2019;Alajuela;Bachillerato: IngenierÃ­a MecÃ¡nica;Bachillerato;Traslado a otra Universidad;Hombres;0;0;0;15;;;31/05/2021
+2019;Alajuela;Bachillerato: IngenierÃ­a MecÃ¡nica;Bachillerato;Traslado a otra Universidad;Mujeres;0;0;0;6;;;31/05/2021
+2019;Alajuela;Bachillerato: IngenierÃ­a QuÃ­mica;Bachillerato;Abandono Voluntario;Hombres;0;15;6;0;;;31/05/2021
+2019;Alajuela;Bachillerato: IngenierÃ­a QuÃ­mica;Bachillerato;Abandono Voluntario;Mujeres;0;7;4;0;;;31/05/2021
+2019;Alajuela;Bachillerato: IngenierÃ­a QuÃ­mica;Bachillerato;Cambio de estudios sin simultaneidad;Hombres;0;3;3;0;;;31/05/2021
+2019;Alajuela;Bachillerato: IngenierÃ­a QuÃ­mica;Bachillerato;Cambio de estudios sin simultaneidad;Mujeres;0;4;3;0;;;31/05/2021
+2019;Alajuela;Bachillerato: IngenierÃ­a QuÃ­mica;Bachillerato;Graduado;Hombres;21;0;0;0;5.06;82.70;31/05/2021
+2019;Alajuela;Bachillerato: IngenierÃ­a QuÃ­mica;Bachillerato;Graduado;Mujeres;15;0;0;0;4.80;92.25;31/05/2021
+2019;Alajuela;Bachillerato: IngenierÃ­a QuÃ­mica;Bachillerato;Incumple RÃ©gimen de permanencia;Hombres;0;6;4;0;;;31/05/2021
+2019;Alajuela;Bachillerato: IngenierÃ­a QuÃ­mica;Bachillerato;Incumple RÃ©gimen de permanencia;Mujeres;0;2;2;0;;;31/05/2021
+2019;Alajuela;Bachillerato: IngenierÃ­a QuÃ­mica;Bachillerato;Traslado a otra Universidad;Hombres;0;0;0;6;;;31/05/2021
+2019;Alajuela;Bachillerato: IngenierÃ­a QuÃ­mica;Bachillerato;Traslado a otra Universidad;Mujeres;0;0;0;4;;;31/05/2021
+2019;Alajuela;Bachillerato: Ingeniero en DiseÃ±o Industrial y Desarrollo de Producto;Bachillerato;Abandono Voluntario;Hombres;0;5;2;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Ingeniero en DiseÃ±o Industrial y Desarrollo de Producto;Bachillerato;Abandono Voluntario;Mujeres;0;3;1;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Ingeniero en DiseÃ±o Industrial y Desarrollo de Producto;Bachillerato;Cambio de estudios sin simultaneidad;Hombres;0;1;0;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Ingeniero en DiseÃ±o Industrial y Desarrollo de Producto;Bachillerato;Graduado;Hombres;26;0;0;0;4.21;88.83;31/05/2021
+2019;Alajuela;Bachillerato: Ingeniero en DiseÃ±o Industrial y Desarrollo de Producto;Bachillerato;Graduado;Mujeres;35;0;0;0;4.21;86.52;31/05/2021
+2019;Alajuela;Bachillerato: Ingeniero en DiseÃ±o Industrial y Desarrollo de Producto;Bachillerato;Incumple RÃ©gimen de permanencia;Hombres;0;1;1;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Ingeniero en DiseÃ±o Industrial y Desarrollo de Producto;Bachillerato;Traslado a otra Universidad;Hombres;0;0;0;1;;;31/05/2021
+2019;Alajuela;Bachillerato: Ingeniero en DiseÃ±o Industrial y Desarrollo de Producto;Bachillerato;Traslado a otra Universidad;Mujeres;0;0;0;1;;;31/05/2021
+2019;Alajuela;Bachillerato: Lenguas Modernas;Bachillerato;Abandono Voluntario;Hombres;0;3;2;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Lenguas Modernas;Bachillerato;Abandono Voluntario;Mujeres;0;9;5;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Lenguas Modernas;Bachillerato;Cambio de estudios sin simultaneidad;Hombres;0;1;1;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Lenguas Modernas;Bachillerato;Cambio de estudios sin simultaneidad;Mujeres;0;3;3;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Lenguas Modernas;Bachillerato;Graduado;Hombres;5;0;0;0;4.40;96.69;31/05/2021
+2019;Alajuela;Bachillerato: Lenguas Modernas;Bachillerato;Graduado;Mujeres;23;0;0;0;4.54;93.57;31/05/2021
+2019;Alajuela;Bachillerato: Lenguas Modernas;Bachillerato;Incumple RÃ©gimen de permanencia;Mujeres;0;1;1;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Magisterio en EducaciÃ³n Infantil;Bachillerato;Abandono Voluntario;Hombres;0;1;0;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Magisterio en EducaciÃ³n Infantil;Bachillerato;Abandono Voluntario;Mujeres;0;15;4;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Magisterio en EducaciÃ³n Infantil;Bachillerato;Cambio de estudios sin simultaneidad;Mujeres;0;1;1;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Magisterio en EducaciÃ³n Infantil;Bachillerato;Graduado;Hombres;2;0;0;0;4.00;100.00;31/05/2021
+2019;Alajuela;Bachillerato: Magisterio en EducaciÃ³n Infantil;Bachillerato;Graduado;Mujeres;107;0;0;0;4.21;96.13;31/05/2021
+2019;Alajuela;Bachillerato: Magisterio en EducaciÃ³n Infantil;Bachillerato;Traslado a otra Universidad;Mujeres;0;0;0;1;;;31/05/2021
+2019;Alajuela;Bachillerato: Magisterio en EducaciÃ³n Primaria;Bachillerato;Abandono Voluntario;Hombres;0;18;9;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Magisterio en EducaciÃ³n Primaria;Bachillerato;Abandono Voluntario;Mujeres;0;19;8;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Magisterio en EducaciÃ³n Primaria;Bachillerato;Cambio de estudios sin simultaneidad;Hombres;0;1;1;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Magisterio en EducaciÃ³n Primaria;Bachillerato;Cambio de estudios sin simultaneidad;Mujeres;0;2;2;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Magisterio en EducaciÃ³n Primaria;Bachillerato;Graduado;Hombres;53;0;0;0;4.82;89.24;31/05/2021
+2019;Alajuela;Bachillerato: Magisterio en EducaciÃ³n Primaria;Bachillerato;Graduado;Mujeres;177;0;0;0;4.27;95.01;31/05/2021
+2019;Alajuela;Bachillerato: Magisterio en EducaciÃ³n Primaria;Bachillerato;Incumple RÃ©gimen de permanencia;Hombres;0;1;0;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Magisterio en EducaciÃ³n Primaria;Bachillerato;Traslado a otra Universidad;Mujeres;0;0;0;2;;;31/05/2021
+2019;Alajuela;Bachillerato: Marketing e InvestigaciÃ³n de Mercados;Bachillerato;Abandono Voluntario;Hombres;0;21;11;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Marketing e InvestigaciÃ³n de Mercados;Bachillerato;Abandono Voluntario;Mujeres;0;20;5;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Marketing e InvestigaciÃ³n de Mercados;Bachillerato;Cambio de estudios sin simultaneidad;Hombres;0;9;7;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Marketing e InvestigaciÃ³n de Mercados;Bachillerato;Cambio de estudios sin simultaneidad;Mujeres;0;3;3;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Marketing e InvestigaciÃ³n de Mercados;Bachillerato;Graduado;Hombres;33;0;0;0;5.29;88.06;31/05/2021
+2019;Alajuela;Bachillerato: Marketing e InvestigaciÃ³n de Mercados;Bachillerato;Graduado;Mujeres;39;0;0;0;5.00;86.55;31/05/2021
+2019;Alajuela;Bachillerato: Marketing e InvestigaciÃ³n de Mercados;Bachillerato;Incumple RÃ©gimen de permanencia;Mujeres;0;1;0;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Marketing e InvestigaciÃ³n de Mercados;Bachillerato;Traslado a otra Universidad;Hombres;0;0;0;3;;;31/05/2021
+2019;Alajuela;Bachillerato: Marketing e InvestigaciÃ³n de Mercados;Bachillerato;Traslado a otra Universidad;Mujeres;0;0;0;4;;;31/05/2021
+2019;Alajuela;Bachillerato: MatemÃ¡ticas;Bachillerato;Abandono Voluntario;Hombres;0;8;3;0;;;31/05/2021
+2019;Alajuela;Bachillerato: MatemÃ¡ticas;Bachillerato;Abandono Voluntario;Mujeres;0;6;3;0;;;31/05/2021
+2019;Alajuela;Bachillerato: MatemÃ¡ticas;Bachillerato;Cambio de estudios sin simultaneidad;Hombres;0;2;2;0;;;31/05/2021
+2019;Alajuela;Bachillerato: MatemÃ¡ticas;Bachillerato;Cambio de estudios sin simultaneidad;Mujeres;0;2;1;0;;;31/05/2021
+2019;Alajuela;Bachillerato: MatemÃ¡ticas;Bachillerato;Graduado;Hombres;17;0;0;0;5.53;76.62;31/05/2021
+2019;Alajuela;Bachillerato: MatemÃ¡ticas;Bachillerato;Graduado;Mujeres;10;0;0;0;5.67;77.03;31/05/2021
+2019;Alajuela;Bachillerato: MatemÃ¡ticas;Bachillerato;Incumple RÃ©gimen de permanencia;Hombres;0;5;2;0;;;31/05/2021
+2019;Alajuela;Bachillerato: MatemÃ¡ticas;Bachillerato;Incumple RÃ©gimen de permanencia;Mujeres;0;4;3;0;;;31/05/2021
+2019;Alajuela;Bachillerato: MatemÃ¡ticas;Bachillerato;Traslado a otra Universidad;Hombres;0;0;0;6;;;31/05/2021
+2019;Alajuela;Bachillerato: MatemÃ¡ticas;Bachillerato;Traslado a otra Universidad;Mujeres;0;0;0;2;;;31/05/2021
+2019;Alajuela;Bachillerato: Medicina;Bachillerato;Abandono Voluntario;Hombres;0;7;4;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Medicina;Bachillerato;Abandono Voluntario;Mujeres;0;10;4;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Medicina;Bachillerato;Cambio de estudios sin simultaneidad;Mujeres;0;2;2;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Medicina;Bachillerato;Graduado;Hombres;89;0;0;0;6.12;96.13;31/05/2021
+2019;Alajuela;Bachillerato: Medicina;Bachillerato;Graduado;Mujeres;187;0;0;0;6.03;97.82;31/05/2021
+2019;Alajuela;Bachillerato: Medicina;Bachillerato;Incumple RÃ©gimen de permanencia;Mujeres;0;1;0;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Medicina;Bachillerato;Traslado a otra Universidad;Hombres;0;0;0;1;;;31/05/2021
+2019;Alajuela;Bachillerato: Medicina;Bachillerato;Traslado a otra Universidad;Mujeres;0;0;0;1;;;31/05/2021
+2019;Alajuela;Bachillerato: Ãptica y OptometrÃ­a;Bachillerato;Abandono Voluntario;Hombres;0;6;3;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Ãptica y OptometrÃ­a;Bachillerato;Abandono Voluntario;Mujeres;0;3;2;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Ãptica y OptometrÃ­a;Bachillerato;Graduado;Hombres;8;0;0;0;4.25;93.93;31/05/2021
+2019;Alajuela;Bachillerato: Ãptica y OptometrÃ­a;Bachillerato;Graduado;Mujeres;33;0;0;0;4.35;89.94;31/05/2021
+2019;Alajuela;Bachillerato: Ãptica y OptometrÃ­a;Bachillerato;Incumple RÃ©gimen de permanencia;Mujeres;0;1;0;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Periodismo;Bachillerato;Abandono Voluntario;Hombres;0;3;0;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Periodismo;Bachillerato;Abandono Voluntario;Mujeres;0;5;1;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Periodismo;Bachillerato;Cambio de estudios sin simultaneidad;Hombres;0;1;0;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Periodismo;Bachillerato;Graduado;Hombres;20;0;0;0;4.56;96.75;31/05/2021
+2019;Alajuela;Bachillerato: Periodismo;Bachillerato;Graduado;Mujeres;26;0;0;0;4.08;99.20;31/05/2021
+2019;Alajuela;Bachillerato: Periodismo;Bachillerato;Traslado a otra Universidad;Hombres;0;0;0;1;;;31/05/2021
+2019;Alajuela;Bachillerato: Programa conjunto ADE/Derecho;Bachillerato;Abandono Voluntario;Mujeres;0;2;1;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Programa conjunto ADE/Derecho;Bachillerato;Cambio de estudios sin simultaneidad;Mujeres;0;1;1;0;;;31/05/2021
+2019;Alajuela;Bachillerato: QuÃ­mica;Bachillerato;Abandono Voluntario;Hombres;0;13;4;0;;;31/05/2021
+2019;Alajuela;Bachillerato: QuÃ­mica;Bachillerato;Abandono Voluntario;Mujeres;0;14;1;0;;;31/05/2021
+2019;Alajuela;Bachillerato: QuÃ­mica;Bachillerato;Cambio de estudios sin simultaneidad;Hombres;0;7;1;0;;;31/05/2021
+2019;Alajuela;Bachillerato: QuÃ­mica;Bachillerato;Cambio de estudios sin simultaneidad;Mujeres;0;5;2;0;;;31/05/2021
+2019;Alajuela;Bachillerato: QuÃ­mica;Bachillerato;Graduado;Hombres;45;0;0;0;4.89;82.67;31/05/2021
+2019;Alajuela;Bachillerato: QuÃ­mica;Bachillerato;Graduado;Mujeres;49;0;0;0;4.89;84.65;31/05/2021
+2019;Alajuela;Bachillerato: QuÃ­mica;Bachillerato;Incumple RÃ©gimen de permanencia;Hombres;0;10;2;0;;;31/05/2021
+2019;Alajuela;Bachillerato: QuÃ­mica;Bachillerato;Incumple RÃ©gimen de permanencia;Mujeres;0;2;0;0;;;31/05/2021
+2019;Alajuela;Bachillerato: QuÃ­mica;Bachillerato;Traslado a otra Universidad;Hombres;0;0;0;4;;;31/05/2021
+2019;Alajuela;Bachillerato: QuÃ­mica;Bachillerato;Traslado a otra Universidad;Mujeres;0;0;0;8;;;31/05/2021
+2019;Alajuela;Bachillerato: Relaciones Laborales y Recursos Humanos;Bachillerato;Abandono Voluntario;Hombres;0;28;13;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Relaciones Laborales y Recursos Humanos;Bachillerato;Abandono Voluntario;Mujeres;0;52;17;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Relaciones Laborales y Recursos Humanos;Bachillerato;Cambio de estudios sin simultaneidad;Hombres;0;1;1;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Relaciones Laborales y Recursos Humanos;Bachillerato;Cambio de estudios sin simultaneidad;Mujeres;0;4;3;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Relaciones Laborales y Recursos Humanos;Bachillerato;Graduado;Hombres;51;0;0;0;5.23;84.50;31/05/2021
+2019;Alajuela;Bachillerato: Relaciones Laborales y Recursos Humanos;Bachillerato;Graduado;Mujeres;58;0;0;0;5.30;88.29;31/05/2021
+2019;Alajuela;Bachillerato: Relaciones Laborales y Recursos Humanos;Bachillerato;Incumple RÃ©gimen de permanencia;Hombres;0;2;2;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Relaciones Laborales y Recursos Humanos;Bachillerato;Incumple RÃ©gimen de permanencia;Mujeres;0;2;2;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Relaciones Laborales y Recursos Humanos;Bachillerato;Traslado a otra Universidad;Mujeres;0;0;0;7;;;31/05/2021
+2019;Alajuela;Bachillerato: Terapia Ocupacional;Bachillerato;Abandono Voluntario;Hombres;0;2;1;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Terapia Ocupacional;Bachillerato;Abandono Voluntario;Mujeres;0;8;5;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Terapia Ocupacional;Bachillerato;Cambio de estudios sin simultaneidad;Hombres;0;1;1;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Terapia Ocupacional;Bachillerato;Cambio de estudios sin simultaneidad;Mujeres;0;3;3;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Terapia Ocupacional;Bachillerato;Graduado;Hombres;14;0;0;0;4.17;92.95;31/05/2021
+2019;Alajuela;Bachillerato: Terapia Ocupacional;Bachillerato;Graduado;Mujeres;55;0;0;0;4.20;93.42;31/05/2021
+2019;Alajuela;Bachillerato: Terapia Ocupacional;Bachillerato;Incumple RÃ©gimen de permanencia;Hombres;0;2;2;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Trabajo Social;Bachillerato;Abandono Voluntario;Hombres;0;9;2;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Trabajo Social;Bachillerato;Abandono Voluntario;Mujeres;0;19;4;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Trabajo Social;Bachillerato;Cambio de estudios sin simultaneidad;Mujeres;0;3;2;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Trabajo Social;Bachillerato;Graduado;Hombres;22;0;0;0;4.73;90.42;31/05/2021
+2019;Alajuela;Bachillerato: Trabajo Social;Bachillerato;Graduado;Mujeres;120;0;0;0;4.23;94.63;31/05/2021
+2019;Alajuela;Bachillerato: Trabajo Social;Bachillerato;Traslado a otra Universidad;Mujeres;0;0;0;4;;;31/05/2021
+2019;Alajuela;Bachillerato: Turismo;Bachillerato;Abandono Voluntario;Hombres;0;7;1;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Turismo;Bachillerato;Abandono Voluntario;Mujeres;0;10;2;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Turismo;Bachillerato;Cambio de estudios sin simultaneidad;Mujeres;0;1;1;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Turismo;Bachillerato;Graduado;Hombres;10;0;0;0;4.57;90.65;31/05/2021
+2019;Alajuela;Bachillerato: Turismo;Bachillerato;Graduado;Mujeres;27;0;0;0;4.58;91.69;31/05/2021
+2019;Alajuela;Bachillerato: Turismo;Bachillerato;Incumple RÃ©gimen de permanencia;Hombres;0;1;0;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Turismo;Bachillerato;Incumple RÃ©gimen de permanencia;Mujeres;0;2;1;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Veterinaria;Bachillerato;Abandono Voluntario;Hombres;0;4;0;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Veterinaria;Bachillerato;Abandono Voluntario;Mujeres;0;14;3;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Veterinaria;Bachillerato;Cambio de estudios sin simultaneidad;Mujeres;0;1;0;0;;;31/05/2021
+2019;Alajuela;Bachillerato: Veterinaria;Bachillerato;Graduado;Hombres;36;0;0;0;5.44;90.32;31/05/2021
+2019;Alajuela;Bachillerato: Veterinaria;Bachillerato;Graduado;Mujeres;95;0;0;0;5.36;90.24;31/05/2021
+2019;Alajuela;Bachillerato: Veterinaria;Bachillerato;Traslado a otra Universidad;Hombres;0;0;0;2;;;31/05/2021
+2019;Alajuela;Bachillerato: Veterinaria;Bachillerato;Traslado a otra Universidad;Mujeres;0;0;0;6;;;31/05/2021
+2019;Alajuela;Historia;Licenciatura o equivalente;Abandono Voluntario;Hombres;0;1;0;0;;;31/05/2021
+2019;Alajuela;Historia;Licenciatura o equivalente;Abandono Voluntario;Mujeres;0;1;0;0;;;31/05/2021
+2019;Alajuela;Historia;Licenciatura o equivalente;Traslado a otra Universidad;Hombres;0;0;0;2;;;31/05/2021
+2019;Alajuela;Historia del Arte;Licenciatura o equivalente;Abandono Voluntario;Hombres;0;1;0;0;;;31/05/2021
+2019;Alajuela;Historia del Arte;Licenciatura o equivalente;Traslado a otra Universidad;Mujeres;0;0;0;1;;;31/05/2021
+2019;Alajuela;Ingenierio QuÃ­mico;Licenciatura o equivalente;Abandono Voluntario;Hombres;0;2;0;0;;;31/05/2021
+2019;Alajuela;Ingeniero en InformÃ¡tica;Licenciatura o equivalente;Abandono Voluntario;Hombres;0;3;0;0;;;31/05/2021
+2019;Alajuela;Ingeniero en InformÃ¡tica;Licenciatura o equivalente;Abandono Voluntario;Mujeres;0;1;0;0;;;31/05/2021
+2019;Alajuela;Ingeniero Industrial;Licenciatura o equivalente;Abandono Voluntario;Hombres;0;4;0;0;;;31/05/2021
+2019;Alajuela;Ingeniero Industrial;Licenciatura o equivalente;Abandono Voluntario;Mujeres;0;1;0;0;;;31/05/2021
+2019;Alajuela;Ingeniero Industrial;Licenciatura o equivalente;Traslado a otra Universidad;Mujeres;0;0;0;1;;;31/05/2021
+2019;Alajuela;Ingeniero TÃ©cnico Industrial;Diplomatura o equivalente;Traslado a otra Universidad;Mujeres;0;0;0;1;;;31/05/2021
+2019;Alajuela;Ingeniero TÃ©cnico Industrial, Esp. Electricidad;Diplomatura o equivalente;Traslado a otra Universidad;Hombres;0;0;0;1;;;31/05/2021
+2019;Alajuela;Ingeniero TÃ©cnico Industrial, Esp. MecÃ¡nica;Diplomatura o equivalente;Traslado a otra Universidad;Hombres;0;0;0;2;;;31/05/2021
+2019;Alajuela;Licenciado en AdministraciÃ³n y DirecciÃ³n de Empresas;Licenciatura o equivalente;Traslado a otra Universidad;Hombres;0;0;0;1;;;31/05/2021
+2019;Alajuela;Licenciado en AdministraciÃ³n y DirecciÃ³n de Empresas;Licenciatura o equivalente;Traslado a otra Universidad;Mujeres;0;0;0;1;;;31/05/2021
+2019;Alajuela;Licenciado en EconomÃ­a;Licenciatura o equivalente;Traslado a otra Universidad;Hombres;0;0;0;1;;;31/05/2021
+2019;Alajuela;Licenciado en EconomÃ­a;Licenciatura o equivalente;Traslado a otra Universidad;Mujeres;0;0;0;1;;;31/05/2021
+2019;Alajuela;Licenciado en MatemÃ¡ticas;Licenciatura o equivalente;Traslado a otra Universidad;Hombres;0;0;0;1;;;31/05/2021
+2019;Alajuela;MÃ¡ster: AbogacÃ­a;MÃ¡ster;Abandono Voluntario;Mujeres;0;1;1;0;;;31/05/2021
+2019;Alajuela;MÃ¡ster: AbogacÃ­a;MÃ¡ster;Graduado;Hombres;38;0;0;0;2.00;99.77;31/05/2021
+2019;Alajuela;MÃ¡ster: AbogacÃ­a;MÃ¡ster;Graduado;Mujeres;56;0;0;0;1.98;100.00;31/05/2021
+2019;Alajuela;MÃ¡ster: Aprendizaje a lo largo de la vida: IniciaciÃ³n a la investigaciÃ³n;MÃ¡ster;Abandono Voluntario;Hombres;0;2;1;0;;;31/05/2021
+2019;Alajuela;MÃ¡ster: Aprendizaje a lo largo de la vida: IniciaciÃ³n a la investigaciÃ³n;MÃ¡ster;Abandono Voluntario;Mujeres;0;3;2;0;;;31/05/2021
+2019;Alajuela;MÃ¡ster: Aprendizaje a lo largo de la vida: IniciaciÃ³n a la investigaciÃ³n;MÃ¡ster;Graduado;Hombres;6;0;0;0;1.40;91.14;31/05/2021
+2019;Alajuela;MÃ¡ster: Aprendizaje a lo largo de la vida: IniciaciÃ³n a la investigaciÃ³n;MÃ¡ster;Graduado;Mujeres;10;0;0;0;1.00;96.77;31/05/2021
+2019;Alajuela;MÃ¡ster: Arquitectura;MÃ¡ster;Abandono Voluntario;Hombres;0;1;1;0;;;31/05/2021
+2019;Alajuela;MÃ¡ster: Arquitectura;MÃ¡ster;Graduado;Hombres;23;0;0;0;1.50;84.07;31/05/2021
+2019;Alajuela;MÃ¡ster: Arquitectura;MÃ¡ster;Graduado;Mujeres;37;0;0;0;1.43;82.06;31/05/2021
+2019;Alajuela;MÃ¡ster: AuditorÃ­a;MÃ¡ster;Abandono Voluntario;Hombres;0;2;2;0;;;31/05/2021
+2019;Alajuela;MÃ¡ster: AuditorÃ­a;MÃ¡ster;Cambio de estudios sin simultaneidad;Mujeres;0;1;1;0;;;31/05/2021
+2019;Alajuela;MÃ¡ster: AuditorÃ­a;MÃ¡ster;Graduado;Hombres;11;0;0;0;1.00;100.00;31/05/2021
+2019;Alajuela;MÃ¡ster: AuditorÃ­a;MÃ¡ster;Graduado;Mujeres;12;0;0;0;1.18;98.36;31/05/2021
+2019;Alajuela;MÃ¡ster: BiologÃ­a Molecular y Celular;MÃ¡ster;Abandono Voluntario;Mujeres;0;1;1;0;;;31/05/2021
+2019;Alajuela;MÃ¡ster: BiologÃ­a Molecular y Celular;MÃ¡ster;Graduado;Hombres;4;0;0;0;1.00;100.00;31/05/2021
+2019;Alajuela;MÃ¡ster: BiologÃ­a Molecular y Celular;MÃ¡ster;Graduado;Mujeres;13;0;0;0;1.38;96.32;31/05/2021
+2019;Alajuela;MÃ¡ster: BiotecnologÃ­a Cuantitativa;MÃ¡ster;Graduado;Hombres;4;0;0;0;1.00;100.00;31/05/2021
+2019;Alajuela;MÃ¡ster: BiotecnologÃ­a Cuantitativa;MÃ¡ster;Graduado;Mujeres;6;0;0;0;1.00;100.00;31/05/2021
+2019;Alajuela;MÃ¡ster: Calidad, Seguridad y TecnologÃ­a de los Alimentos;MÃ¡ster;Graduado;Hombres;13;0;0;0;1.08;97.01;31/05/2021
+2019;Alajuela;MÃ¡ster: Calidad, Seguridad y TecnologÃ­a de los Alimentos;MÃ¡ster;Graduado;Mujeres;9;0;0;0;1.00;100.00;31/05/2021
+2019;Alajuela;MÃ¡ster: Ciencias de la AntigÃ¼edad;MÃ¡ster;Abandono Voluntario;Hombres;0;2;0;0;;;31/05/2021
+2019;Alajuela;MÃ¡ster: Cond. genÃ©ticos, nutric. y amb. del crec. y desarrollo;MÃ¡ster;Graduado;Hombres;5;0;0;0;1.50;94.04;31/05/2021
+2019;Alajuela;MÃ¡ster: Cond. genÃ©ticos, nutric. y amb. del crec. y desarrollo;MÃ¡ster;Graduado;Mujeres;15;0;0;0;1.00;100.00;31/05/2021
+2019;Alajuela;MÃ¡ster: ConsultorÃ­a de InformaciÃ³n y ComunicaciÃ³n Digital;MÃ¡ster;Graduado;Mujeres;11;0;0;0;1.36;95.33;31/05/2021
+2019;Alajuela;MÃ¡ster: Contabilidad y finanzas;MÃ¡ster;Abandono Voluntario;Hombres;0;1;1;0;;;31/05/2021
+2019;Alajuela;MÃ¡ster: Contabilidad y finanzas;MÃ¡ster;Graduado;Hombres;5;0;0;0;1.00;100.00;31/05/2021
+2019;Alajuela;MÃ¡ster: Contabilidad y finanzas;MÃ¡ster;Graduado;Mujeres;7;0;0;0;1.00;100.00;31/05/2021
+2019;Alajuela;MÃ¡ster: DirecciÃ³n, Estrategia y Marketing;MÃ¡ster;Abandono Voluntario;Hombres;0;4;4;0;;;31/05/2021
+2019;Alajuela;MÃ¡ster: DirecciÃ³n, Estrategia y Marketing;MÃ¡ster;Graduado;Mujeres;8;0;0;0;1.29;95.24;31/05/2021
+2019;Alajuela;MÃ¡ster: EconomÃ­a;MÃ¡ster;Abandono Voluntario;Hombres;0;3;2;0;;;31/05/2021
+2019;Alajuela;MÃ¡ster: EconomÃ­a;MÃ¡ster;Graduado;Hombres;5;0;0;0;1.00;100.00;31/05/2021
+2019;Alajuela;MÃ¡ster: EconomÃ­a;MÃ¡ster;Graduado;Mujeres;2;0;0;0;1.00;100.00;31/05/2021
+2019;Alajuela;MÃ¡ster: EnergÃ­as Renovables y Eficiencia EnergÃ©tica;MÃ¡ster;Abandono Voluntario;Hombres;0;3;0;0;;;31/05/2021
+2019;Alajuela;MÃ¡ster: EnergÃ­as Renovables y Eficiencia EnergÃ©tica;MÃ¡ster;Graduado;Hombres;6;0;0;0;1.83;95.74;31/05/2021
+2019;Alajuela;MÃ¡ster: EnergÃ­as Renovables y Eficiencia EnergÃ©tica;MÃ¡ster;Graduado;Mujeres;2;0;0;0;2.00;100.00;31/05/2021
+2019;Alajuela;MÃ¡ster: EspecializaciÃ³n e InvestigaciÃ³n en Derecho;MÃ¡ster;Abandono Voluntario;Mujeres;0;3;0;0;;;31/05/2021
+2019;Alajuela;MÃ¡ster: Estudios Avanzados de Literatura y Cine en Lengua Inglesa;MÃ¡ster;Abandono Voluntario;Mujeres;0;1;1;0;;;31/05/2021
+2019;Alajuela;MÃ¡ster: Estudios Avanzados en Historia del Arte;MÃ¡ster;Abandono Voluntario;Hombres;0;1;1;0;;;31/05/2021
+2019;Alajuela;MÃ¡ster: Estudios Avanzados en Historia del Arte;MÃ¡ster;Abandono Voluntario;Mujeres;0;2;1;0;;;31/05/2021
+2019;Alajuela;MÃ¡ster: Estudios Avanzados en Historia del Arte;MÃ¡ster;Graduado;Hombres;1;0;0;0;2.00;83.67;31/05/2021
+2019;Alajuela;MÃ¡ster: Estudios Avanzados en Historia del Arte;MÃ¡ster;Graduado;Mujeres;5;0;0;0;1.00;100.00;31/05/2021
+2019;Alajuela;MÃ¡ster: Estudios Avanzados en Historia del Arte;MÃ¡ster;Incumple RÃ©gimen de permanencia;Hombres;0;1;1;0;;;31/05/2021
+2019;Alajuela;MÃ¡ster: FÃ­sica y TecnologÃ­as FÃ­sicas;MÃ¡ster;Abandono Voluntario;Hombres;0;1;1;0;;;31/05/2021
+2019;Alajuela;MÃ¡ster: FÃ­sica y TecnologÃ­as FÃ­sicas;MÃ¡ster;Graduado;Hombres;5;0;0;0;1.00;100.00;31/05/2021
+2019;Alajuela;MÃ¡ster: FÃ­sica y TecnologÃ­as FÃ­sicas;MÃ¡ster;Graduado;Mujeres;5;0;0;0;1.00;100.00;31/05/2021
+2019;Alajuela;MÃ¡ster: GeologÃ­a: TÃ©cnicas y Aplicaciones;MÃ¡ster;Graduado;Hombres;6;0;0;0;1.00;100.00;31/05/2021
+2019;Alajuela;MÃ¡ster: GeologÃ­a: TÃ©cnicas y Aplicaciones;MÃ¡ster;Graduado;Mujeres;4;0;0;0;1.50;90.91;31/05/2021
+2019;Alajuela;MÃ¡ster: GerontologÃ­a Social;MÃ¡ster;Abandono Voluntario;Hombres;0;1;1;0;;;31/05/2021
+2019;Alajuela;MÃ¡ster: GerontologÃ­a Social;MÃ¡ster;Graduado;Hombres;7;0;0;0;1.00;100.00;31/05/2021
+2019;Alajuela;MÃ¡ster: GerontologÃ­a Social;MÃ¡ster;Graduado;Mujeres;31;0;0;0;1.23;98.36;31/05/2021
+2019;Alajuela;MÃ¡ster: GestiÃ³n Administrativa;MÃ¡ster;Graduado;Hombres;4;0;0;0;1.00;100.00;31/05/2021
+2019;Alajuela;MÃ¡ster: GestiÃ³n Administrativa;MÃ¡ster;Graduado;Mujeres;11;0;0;0;1.09;99.10;31/05/2021
+2019;Alajuela;MÃ¡ster: GestiÃ³n del Patrimonio Cultural;MÃ¡ster;Abandono Voluntario;Hombres;0;1;0;0;;;31/05/2021
+2019;Alajuela;MÃ¡ster: GestiÃ³n del Patrimonio Cultural;MÃ¡ster;Abandono Voluntario;Mujeres;0;1;0;0;;;31/05/2021
+2019;Alajuela;MÃ¡ster: GestiÃ³n del Patrimonio Cultural;MÃ¡ster;Graduado;Hombres;7;0;0;0;1.00;100.00;31/05/2021
+2019;Alajuela;MÃ¡ster: GestiÃ³n del Patrimonio Cultural;MÃ¡ster;Graduado;Mujeres;15;0;0;0;1.00;100.00;31/05/2021
+2019;Alajuela;MÃ¡ster: Historia ContemporÃ¡nea;MÃ¡ster;Graduado;Hombres;5;0;0;0;1.00;100.00;31/05/2021
+2019;Alajuela;MÃ¡ster: Historia ContemporÃ¡nea;MÃ¡ster;Graduado;Mujeres;5;0;0;0;1.00;98.36;31/05/2021
+2019;Alajuela;MÃ¡ster: IngenierÃ­a biomÃ©dica;MÃ¡ster;Abandono Voluntario;Hombres;0;6;0;0;;;31/05/2021
+2019;Alajuela;MÃ¡ster: IngenierÃ­a biomÃ©dica;MÃ¡ster;Abandono Voluntario;Mujeres;0;2;0;0;;;31/05/2021
+2019;Alajuela;MÃ¡ster: IngenierÃ­a biomÃ©dica;MÃ¡ster;Graduado;Hombres;11;0;0;0;1.90;97.30;31/05/2021
+2019;Alajuela;MÃ¡ster: IngenierÃ­a biomÃ©dica;MÃ¡ster;Graduado;Mujeres;9;0;0;0;2.00;93.36;31/05/2021
+2019;Alajuela;MÃ¡ster: IngenierÃ­a de DiseÃ±o de Producto;MÃ¡ster;Graduado;Hombres;5;0;0;0;1.25;95.24;31/05/2021
+2019;Alajuela;MÃ¡ster: IngenierÃ­a de DiseÃ±o de Producto;MÃ¡ster;Graduado;Mujeres;6;0;0;0;1.17;96.81;31/05/2021
+2019;Alajuela;MÃ¡ster: IngenierÃ­a de sistemas e informÃ¡tica;MÃ¡ster;Abandono Voluntario;Mujeres;0;1;0;0;;;31/05/2021
+2019;Alajuela;MÃ¡ster: IngenierÃ­a de TelecomunicaciÃ³n;MÃ¡ster;Graduado;Hombres;8;0;0;0;2.00;98.46;31/05/2021
+2019;Alajuela;MÃ¡ster: IngenierÃ­a de TelecomunicaciÃ³n;MÃ¡ster;Graduado;Mujeres;1;0;0;0;2.00;96.00;31/05/2021
+2019;Alajuela;MÃ¡ster: IngenierÃ­a ElectrÃ³nica;MÃ¡ster;Abandono Voluntario;Hombres;0;2;2;0;;;31/05/2021
+2019;Alajuela;MÃ¡ster: IngenierÃ­a ElectrÃ³nica;MÃ¡ster;Abandono Voluntario;Mujeres;0;1;0;0;;;31/05/2021
+2019;Alajuela;MÃ¡ster: IngenierÃ­a ElectrÃ³nica;MÃ¡ster;Graduado;Hombres;11;0;0;0;1.33;93.77;31/05/2021
+2019;Alajuela;MÃ¡ster: IngenierÃ­a Industrial;MÃ¡ster;Abandono Voluntario;Hombres;0;2;1;0;;;31/05/2021
+2019;Alajuela;MÃ¡ster: IngenierÃ­a Industrial;MÃ¡ster;Graduado;Hombres;60;0;0;0;2.26;95.24;31/05/2021
+2019;Alajuela;MÃ¡ster: IngenierÃ­a Industrial;MÃ¡ster;Graduado;Mujeres;10;0;0;0;2.12;94.67;31/05/2021
+2019;Alajuela;MÃ¡ster: IngenierÃ­a InformÃ¡tica;MÃ¡ster;Abandono Voluntario;Hombres;0;1;0;0;;;31/05/2021
+2019;Alajuela;MÃ¡ster: IngenierÃ­a InformÃ¡tica;MÃ¡ster;Graduado;Hombres;6;0;0;0;2.20;97.25;31/05/2021
+2019;Alajuela;MÃ¡ster: IngenierÃ­a MecÃ¡nica;MÃ¡ster;Abandono Voluntario;Hombres;0;3;3;0;;;31/05/2021
+2019;Alajuela;MÃ¡ster: IngenierÃ­a MecÃ¡nica;MÃ¡ster;Graduado;Hombres;10;0;0;0;1.40;89.14;31/05/2021
+2019;Alajuela;MÃ¡ster: IngenierÃ­a MecÃ¡nica;MÃ¡ster;Graduado;Mujeres;1;0;0;0;1.00;100.00;31/05/2021
+2019;Alajuela;MÃ¡ster: IngenierÃ­a QuÃ­mica;MÃ¡ster;Cambio de estudios sin simultaneidad;Hombres;0;1;1;0;;;31/05/2021
+2019;Alajuela;MÃ¡ster: IngenierÃ­a QuÃ­mica;MÃ¡ster;Graduado;Hombres;4;0;0;0;2.00;100.00;31/05/2021
+2019;Alajuela;MÃ¡ster: IngenierÃ­a QuÃ­mica;MÃ¡ster;Graduado;Mujeres;8;0;0;0;2.00;99.17;31/05/2021
+2019;Alajuela;MÃ¡ster: IniciaciÃ³n a la InvestigaciÃ³n en Ciencias de la EnfermerÃ­a;MÃ¡ster;Graduado;Hombres;1;0;0;0;2.00;83.33;31/05/2021
+2019;Alajuela;MÃ¡ster: IniciaciÃ³n a la InvestigaciÃ³n en Ciencias de la EnfermerÃ­a;MÃ¡ster;Graduado;Mujeres;14;0;0;0;1.07;98.59;31/05/2021
+2019;Alajuela;MÃ¡ster: IniciaciÃ³n a la investigaciÃ³n en Medicina;MÃ¡ster;Abandono Voluntario;Hombres;0;1;1;0;;;31/05/2021
+2019;Alajuela;MÃ¡ster: IniciaciÃ³n a la investigaciÃ³n en Medicina;MÃ¡ster;Abandono Voluntario;Mujeres;0;1;1;0;;;31/05/2021
+2019;Alajuela;MÃ¡ster: IniciaciÃ³n a la investigaciÃ³n en Medicina;MÃ¡ster;Graduado;Hombres;22;0;0;0;1.17;96.21;31/05/2021
+2019;Alajuela;MÃ¡ster: IniciaciÃ³n a la investigaciÃ³n en Medicina;MÃ¡ster;Graduado;Mujeres;45;0;0;0;1.05;98.15;31/05/2021
+2019;Alajuela;MÃ¡ster: InvestigaciÃ³n en FilosofÃ­a;MÃ¡ster;Graduado;Hombres;5;0;0;0;1.00;100.00;31/05/2021
+2019;Alajuela;MÃ¡ster: InvestigaciÃ³n en FilosofÃ­a;MÃ¡ster;Graduado;Mujeres;1;0;0;0;1.00;100.00;31/05/2021
+2019;Alajuela;MÃ¡ster: InvestigaciÃ³n y Estudios Avanzados en Historia;MÃ¡ster;Abandono Voluntario;Hombres;0;1;1;0;;;31/05/2021
+2019;Alajuela;MÃ¡ster: InvestigaciÃ³n y Estudios Avanzados en Historia;MÃ¡ster;Graduado;Hombres;4;0;0;0;1.25;95.24;31/05/2021
+2019;Alajuela;MÃ¡ster: InvestigaciÃ³n y Estudios Avanzados en Historia;MÃ¡ster;Graduado;Mujeres;2;0;0;0;1.00;100.00;31/05/2021
+2019;Alajuela;MÃ¡ster: Literaturas HispÃ¡nicas y Lengua EspaÃ±ola: TradiciÃ³n e Identidades;MÃ¡ster;Abandono Voluntario;Mujeres;0;1;1;0;;;31/05/2021
+2019;Alajuela;MÃ¡ster: Literaturas HispÃ¡nicas y Lengua EspaÃ±ola: TradiciÃ³n e Identidades;MÃ¡ster;Graduado;Hombres;1;0;0;0;1.00;100.00;31/05/2021
+2019;Alajuela;MÃ¡ster: Literaturas HispÃ¡nicas y Lengua EspaÃ±ola: TradiciÃ³n e Identidades;MÃ¡ster;Graduado;Mujeres;6;0;0;0;1.00;93.75;31/05/2021
+2019;Alajuela;MÃ¡ster: Materiales nanoestructurados para aplicaciones nanotecnolÃ³gicas;MÃ¡ster;Abandono Voluntario;Hombres;0;1;0;0;;;31/05/2021
+2019;Alajuela;MÃ¡ster: Materiales nanoestructurados para aplicaciones nanotecnolÃ³gicas;MÃ¡ster;Graduado;Hombres;8;0;0;0;1.00;100.00;31/05/2021
+2019;Alajuela;MÃ¡ster: Materiales nanoestructurados para aplicaciones nanotecnolÃ³gicas;MÃ¡ster;Graduado;Mujeres;5;0;0;0;1.00;100.00;31/05/2021
+2019;Alajuela;MÃ¡ster: ModelizaciÃ³n e InvestigaciÃ³n MatemÃ¡tica, EstadÃ­stica y ComputaciÃ³n;MÃ¡ster;Graduado;Hombres;7;0;0;0;1.17;92.11;31/05/2021
+2019;Alajuela;MÃ¡ster: ModelizaciÃ³n e InvestigaciÃ³n MatemÃ¡tica, EstadÃ­stica y ComputaciÃ³n;MÃ¡ster;Graduado;Mujeres;5;0;0;0;1.20;96.15;31/05/2021
+2019;Alajuela;MÃ¡ster: Mundo Antiguo y Patrimonio ArqueolÃ³gico;MÃ¡ster;Graduado;Hombres;7;0;0;0;1.00;100.00;31/05/2021
+2019;Alajuela;MÃ¡ster: Mundo Antiguo y Patrimonio ArqueolÃ³gico;MÃ¡ster;Graduado;Mujeres;5;0;0;0;1.00;100.00;31/05/2021
+2019;Alajuela;MÃ¡ster: NanotecnologÃ­a Medioambiental;MÃ¡ster;Abandono Voluntario;Hombres;0;2;2;0;;;31/05/2021
+2019;Alajuela;MÃ¡ster: NanotecnologÃ­a Medioambiental;MÃ¡ster;Graduado;Hombres;1;0;0;0;2.00;83.33;31/05/2021
+2019;Alajuela;MÃ¡ster: NutriciÃ³n animal;MÃ¡ster;Abandono Voluntario;Hombres;0;1;1;0;;;31/05/2021
+2019;Alajuela;MÃ¡ster: OrdenaciÃ³n Territorial y Medioambiental;MÃ¡ster;Abandono Voluntario;Hombres;0;1;1;0;;;31/05/2021
+2019;Alajuela;MÃ¡ster: OrdenaciÃ³n Territorial y Medioambiental;MÃ¡ster;Graduado;Hombres;8;0;0;0;1.00;100.00;31/05/2021
+2019;Alajuela;MÃ¡ster: OrdenaciÃ³n Territorial y Medioambiental;MÃ¡ster;Graduado;Mujeres;5;0;0;0;1.00;100.00;31/05/2021
+2019;Alajuela;MÃ¡ster: PrevenciÃ³n de riesgos laborales;MÃ¡ster;Abandono Voluntario;Hombres;0;2;2;0;;;31/05/2021
+2019;Alajuela;MÃ¡ster: PrevenciÃ³n de riesgos laborales;MÃ¡ster;Graduado;Hombres;11;0;0;0;1.09;98.53;31/05/2021
+2019;Alajuela;MÃ¡ster: PrevenciÃ³n de riesgos laborales;MÃ¡ster;Graduado;Mujeres;11;0;0;0;1.30;98.48;31/05/2021
+2019;Alajuela;MÃ¡ster: Profesorado E.S.O., F.P. y Ens. Idiom, Art y Deport;MÃ¡ster;Abandono Voluntario;Hombres;0;10;8;0;;;31/05/2021
+2019;Alajuela;MÃ¡ster: Profesorado E.S.O., F.P. y Ens. Idiom, Art y Deport;MÃ¡ster;Abandono Voluntario;Mujeres;0;15;12;0;;;31/05/2021
+2019;Alajuela;MÃ¡ster: Profesorado E.S.O., F.P. y Ens. Idiom, Art y Deport;MÃ¡ster;Graduado;Hombres;161;0;0;0;1.13;97.57;31/05/2021
+2019;Alajuela;MÃ¡ster: Profesorado E.S.O., F.P. y Ens. Idiom, Art y Deport;MÃ¡ster;Graduado;Mujeres;249;0;0;0;1.13;98.14;31/05/2021
+2019;Alajuela;MÃ¡ster: Profesorado E.S.O., F.P. y Ens. Idiom, Art y Deport;MÃ¡ster;Incumple RÃ©gimen de permanencia;Hombres;0;1;1;0;;;31/05/2021
+2019;Alajuela;MÃ¡ster: Profesorado E.S.O., F.P. y Ens. Idiom, Art y Deport;MÃ¡ster;Incumple RÃ©gimen de permanencia;Mujeres;0;1;1;0;;;31/05/2021
+2019;Alajuela;MÃ¡ster: QuÃ­mica Industrial;MÃ¡ster;Graduado;Hombres;14;0;0;0;1.08;98.94;31/05/2021
+2019;Alajuela;MÃ¡ster: QuÃ­mica Industrial;MÃ¡ster;Graduado;Mujeres;7;0;0;0;1.00;100.00;31/05/2021
+2019;Alajuela;MÃ¡ster: QuÃ­mica Molecular y CatÃ¡lisis HomogÃ©nea;MÃ¡ster;Graduado;Hombres;9;0;0;0;1.00;100.00;31/05/2021
+2019;Alajuela;MÃ¡ster: QuÃ­mica Molecular y CatÃ¡lisis HomogÃ©nea;MÃ¡ster;Graduado;Mujeres;7;0;0;0;1.00;100.00;31/05/2021
+2019;Alajuela;MÃ¡ster: Relaciones de GÃ©nero;MÃ¡ster;Abandono Voluntario;Hombres;0;2;0;0;;;31/05/2021
+2019;Alajuela;MÃ¡ster: Relaciones de GÃ©nero;MÃ¡ster;Abandono Voluntario;Mujeres;0;2;2;0;;;31/05/2021
+2019;Alajuela;MÃ¡ster: Relaciones de GÃ©nero;MÃ¡ster;Graduado;Hombres;1;0;0;0;1.00;100.00;31/05/2021
+2019;Alajuela;MÃ¡ster: Relaciones de GÃ©nero;MÃ¡ster;Graduado;Mujeres;18;0;0;0;1.11;97.83;31/05/2021
+2019;Alajuela;MÃ¡ster: Salud pÃºblica;MÃ¡ster;Abandono Voluntario;Hombres;0;2;2;0;;;31/05/2021
+2019;Alajuela;MÃ¡ster: Salud pÃºblica;MÃ¡ster;Abandono Voluntario;Mujeres;0;3;1;0;;;31/05/2021
+2019;Alajuela;MÃ¡ster: Salud pÃºblica;MÃ¡ster;Graduado;Hombres;6;0;0;0;1.00;100.00;31/05/2021
+2019;Alajuela;MÃ¡ster: Salud pÃºblica;MÃ¡ster;Graduado;Mujeres;15;0;0;0;1.27;96.98;31/05/2021
+2019;Alajuela;MÃ¡ster: Sistemas MecÃ¡nicos;MÃ¡ster;Abandono Voluntario;Hombres;0;1;0;0;;;31/05/2021
+2019;Alajuela;MÃ¡ster: SociologÃ­a de las PolÃ­ticas PÃºblicas y Sociales;MÃ¡ster;Abandono Voluntario;Mujeres;0;1;0;0;;;31/05/2021
+2019;Alajuela;MÃ¡ster: SociologÃ­a de las PolÃ­ticas PÃºblicas y Sociales;MÃ¡ster;Graduado;Hombres;6;0;0;0;1.00;100.00;31/05/2021
+2019;Alajuela;MÃ¡ster: SociologÃ­a de las PolÃ­ticas PÃºblicas y Sociales;MÃ¡ster;Graduado;Mujeres;8;0;0;0;1.12;97.56;31/05/2021
+2019;Alajuela;MÃ¡ster: Tec.InformaciÃ³n GeogrÃ¡fica para OrdenaciÃ³n Territorio: Sig/Teled;MÃ¡ster;Abandono Voluntario;Hombres;0;3;2;0;;;31/05/2021
+2018;Alajuela;MÃ¡ster: Tec.InformaciÃ³n GeogrÃ¡fica para OrdenaciÃ³n Territorio: Sig/Teled;MÃ¡ster;Graduado;Hombres;12;0;0;0;1.09;98.36;31/05/2021
+2018;Alajuela;MÃ¡ster: Tec.InformaciÃ³n GeogrÃ¡fica para OrdenaciÃ³n Territorio: Sig/Teled;MÃ¡ster;Graduado;Mujeres;7;0;0;0;1.17;97.24;31/05/2021
+2018;Alajuela;MÃ¡ster: TraducciÃ³n de textos especializados;MÃ¡ster;Graduado;Mujeres;1;0;0;0;;90.91;31/05/2021
+2018;Alajuela;MÃ¡ster: UniÃ³n Europea;MÃ¡ster;Abandono Voluntario;Hombres;0;1;1;0;;;31/05/2021
+2018;Alajuela;MÃ¡ster: UniÃ³n Europea;MÃ¡ster;Graduado;Hombres;1;0;0;0;3.00;71.43;31/05/2021
+2018;Alajuela;QuÃ­micas;Licenciatura o equivalente;Abandono Voluntario;Mujeres;0;1;0;0;;;31/05/2021
+2018;Alajuela;QuÃ­micas;Licenciatura o equivalente;Traslado a otra Universidad;Hombres;0;0;0;2;;;31/05/2021
+2018;Alajuela;Relaciones Laborales;Diplomatura o equivalente;Traslado a otra Universidad;Hombres;0;0;0;1;;;31/05/2021
+2018;Alajuela;Trabajo Social;Diplomatura o equivalente;Traslado a otra Universidad;Hombres;0;0;0;1;;;31/05/2021
+2018;Alajuela;Veterinaria;Licenciatura o equivalente;Abandono Voluntario;Hombres;0;1;0;0;;;31/05/2021
+2018;Alajuela;Veterinaria;Licenciatura o equivalente;Abandono Voluntario;Mujeres;0;1;0;0;;;31/05/2021
